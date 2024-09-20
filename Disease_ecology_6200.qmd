@@ -24,13 +24,13 @@ circle_area <- area_of_circle(radius)
 cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ```
 
-![](images/clipboard-2779519854.png)
+
 
 the epidemiological triad is a model that is used to help explain and understand the causes of disease. It consists of three parts that interact and help propagate the disease. The three parts include the environment, the agent, and the host of these disease. This model was developed to help explain the complexity and compounding factors of diseases.
 
 Worksheet 2_3
 
-![](ss_table.png)
+![]ss_table.png
 
 1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
 
