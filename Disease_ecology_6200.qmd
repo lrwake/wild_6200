@@ -46,19 +46,12 @@ b\) 99% confidence in detecting a disease at 2% prevalence in a large population
 
 sample size requirements for a large population at 99% confidence at 2% prevalence is also 299
 
-3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, younare 95% confident that the prevalence of exposure to EHD in this facility is \_less than\_\_\_\_ (\<, =,\>) \_\_1\_\_%.
+3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_less than\_\_\_\_ (\<, =,\>) \_\_1\_\_%.
 
 4\) An outbreak of ‘Lame disease’ has been reported in wild turkey populations ofAlabama. Turkeys from three counties were sampled for lameness (Lee, Chambers and\
 Russell counties).
 
-```{r}
-russel <- read.csv("C:/Users/lrw0046/Downloads/DeerLameness_Russell.csv")
-head(russel)
-lee <- read.csv("C:/Users/lrw0046/Downloads/DeerLameness_Lee.csv")
-head(lee)
-chambers <- read.csv("C:/Users/lrw0046/Downloads/DeerLameness_Chambers.csv")
-head(chambers)
-
+```{}
 ```
 
 \
@@ -67,11 +60,11 @@ Provide confidence interval for prevalence using Sterne’s method.
 
 CI set at 95%
 
-Russel county prevalence- 3%
+Russel county prevalence- 3%, Lower CL- 1%, Upper CL - 9%
 
-Lee county prevalence- 20%
+Lee county prevalence- 20%, Lower CL- 14%, Upper CL - 27%
 
-Chambers county prevalence-27%
+Chambers county prevalence-27%, Lower CL- 13%, Upper CL - 45%
 
 \
 b) Compare prevalence using Fisher’s exact test
@@ -83,6 +76,14 @@ Russel county prevalence- 3.1%
 Lee county prevalence- 20%
 
 Chambers county prevalence-27%
+
+Chambers and Lee two-sided p-value: 0.4631 - Statistically significant
+
+Lee and Russel two-sided p-value: \<0.0001 - Statistically insignificant
+
+Russel and Chambers two-sided p-value: 0.0004- Statistically insignificant
+
+Russel, Chambers and Lee Two-sided p-value: \<0.0001 - Statistically insignificant
 
 5\) Jane was studying the spread of Pink Spot Disease (PSD) in a pond that had 60 fish. She introduced an infectious fish in the pond on day 0. Her observations are as follows:
 
@@ -98,12 +99,12 @@ Note that there is no disease-related mortality. The observations denote all inf
 \
 a) Find incidence on day 1, day 2 and day 5. Write the unit for incidence.
 
-day 1- .05, 5% cases per fish/day, day 2- .07, 7% cases per fish/day, day 5- .33, 33%cases per fish/day
+day 1- 5% cases per fish/day, day 2- 2% cases per fish/day, day 5- 18% cases per fish/day
 
 \
 b) What is the prevalence of PSD on day 3 and day 5?
 
-Day 3- 23%, Day 5 -75%
+Day 3- 11%, Day 5 -33%
 
 \
 c) On which day is the prevalence same as the incidence (except the units)?\
