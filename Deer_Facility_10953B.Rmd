@@ -1,0 +1,18 @@
+---
+title: "Practice Code"
+output: html_notebook
+---
+
+
+# 3. Check for positive tests
+# Assume the column is named "test_result" and positive results are labeled as "positive"
+positive_tests <- df %>% filter(test_result == 'positive')
+print(positive_tests)
+```{r}
+library(dplyr)
+deer <- read.csv("C:/Users/lrwak/Downloads/FID10953B_20_23.csv")
+head(deer)
+duplicates <- deer[duplicated(deer$UNIQUE_NUMBER), ]
+data <- deer %>% select(-c(DEER_SEX, SOURCE_FACILITY, HOW_REMOVED, DESTINATION_FID, DESTINATION_TYPE, CAUSE_OF_DEATH, FACILITY_WHERE_DEAD, POSTMORT_SMPL_CLLCTN_DATE, ANTEMORT_FCLTY_WHERE_TESTED))
+
+```
