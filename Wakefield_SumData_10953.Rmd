@@ -1,0 +1,54 @@
+---
+title: "CWD Notebook"
+output: html_notebook
+---
+
+
+```{r}
+# Load necessary libraries
+library(readr)     # For reading CSV files
+library(dplyr)     # For data manipulation
+library(lubridate) # For date handling
+
+# Load the data from the CSV file
+file_path <- "C:/Users/lrwak/Downloads/FID10953B.csv"
+df <- read_csv(file_path)
+
+# 1. Check for duplicates in the unique number column
+# Assume the column is named "unique_number"
+duplicates <- df %>% filter(duplicated(UNIQUE_NUMBER))
+print(duplicates)
+
+# Remove duplicates based on unique number
+df <- df %>% distinct(UNIQUE_NUMBER, .keep_all = TRUE)
+
+# 2. Remove unnecessary columns (sex, species, cause of death, etc.)
+df <- df %>% select(-DEER_SEX, -SPECIES, -CAUSE_OF_DEATH, -FACILITY_WHERE_DEAD, -DESTINATION_FID, -DESTINATION_TYPE)
+
+# 3. Check for positive tests
+# Assume the column is named "test_result" and positive results are labeled as "positive"
+ANTEMORT_TISSUE_TYPE <- df %>% filter(ANTEMORT_TISSUE_TYPE == 'Not detected')
+print(ANTEMORT_TISSUE_TYPE)
+
+# 4. Calculate age on arrival to the facility
+# Assume the columns are "birth_date" and "arrival_date"
+df <- df %>%
+  mutate(
+    ESTIMATED_BIRTH_DATE = ymd(ESTIMATED_BIRTH_DATE), # Ensure birth_date is in date format
+    ADDED_DATE = ymd(ADDED_DATE), # Ensure arrival_date is in date format
+    age_on_arrival = as.numeric(ADDED_DATE - ESTIMATED_BIRTH_DATE), # Calculate age in days
+    age_on_arrival = ifelse(age_on_arrival < 0, 0, age_on_arrival) # Set age to 0 if negative
+  )
+
+# 5. Calculate age at departure from facility
+# Assume the columns are "departure_date" and "arrival_date"
+df <- df %>%
+  mutate(
+    REMOVED_DATE = ymd(REMOVED_DATE), # Ensure departure_date is in date format
+    age_at_departure = as.numeric(REMOVED_DATE - ESTIMATED_BIRTH_DATE), # Calculate age in days
+    age_at_departure = ifelse(is.na(REMOVED_DATE), NA, age_at_departure) # Set NA for individuals who haven't departed
+  )
+
+# Check the cleaned and updated data
+print(df)
+```
