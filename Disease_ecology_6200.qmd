@@ -125,3 +125,89 @@ Despite their advantages, disease models come with significant limitations. The 
 To enhance wildlife disease management, it is crucial to use disease models in conjunction with other tools. Empirical research and field observations can provide valuable data to refine models and validate their predictions. Combining modeling with field studies allows for a more robust understanding of disease dynamics in real-world contexts. Implementing an adaptive management approach encourages continuous learning and adjustment of strategies based on monitoring outcomes. This flexibility allows managers to respond effectively to new information and changing ecological conditions. Engaging experts from various fields such as ecology, epidemiology, veterinary science, and social sciences can enhance model development and application. Collaborative efforts can address the multifaceted nature of wildlife diseases and improve management effectiveness.
 
 Disease models are valuable tools in wildlife disease management, offering predictive insights and aiding in decision-making. However, their limitations necessitate a cautious approach, combining modeling with empirical data and adaptive management practices. By integrating these methods, we can enhance our capacity to manage wildlife diseases effectively and sustain ecosystem health.
+
+**Bonus points for Midterm**
+
+12. 
+
+To achieve herd immunity in a population, the proportion of the population that needs to be immune is determined using the formula:
+
+H=1−1R0H = 1 - \frac{1}{R_0}H=1−R0​1​
+
+where:
+
+-   HHH is the herd immunity threshold.
+
+-   R0R_0R0​ is the basic reproduction number, which is given as 3 for PDV in this case.
+
+To calculate the herd immunity threshhold
+
+H=1−13=23≈0.67H = 1 - \frac{1}{3} = \frac{2}{3} \approx 0.67H=1−31​=32​≈0.67
+
+This means 67% of the population needs to be immune to achieve herd immunity.
+
+### Step 1: Total population breakdown
+
+-   The total seal population is 5,400.
+
+-   50% of the seals are adults: 5,400×0.50=2,700 adult seals.5,400 \times 0.50 = 2,700 \text{ adult seals}.5,400×0.50=2,700 adult seals.
+
+### Step 2: Adult seals with natural immunity
+
+-   40% of the adults have natural immunity due to prior PDV infection: 2,700×0.40=1,080 adult seals already immune.2,700 \times 0.40 = 1,080 \text{ adult seals already immune}.2,700×0.40=1,080 adult seals already immune.
+
+### Step 3: Total number of seals that need to be immune for herd immunity
+
+-   To achieve herd immunity, 67% of the total population (5,400) needs to be immune: 5,400×0.67=3,618 seals need to be immune.5,400 \times 0.67 = 3,618 \text{ seals need to be immune}.5,400×0.67=3,618 seals need to be immune.
+
+### Step 4: Number of seals that need to be vaccinated
+
+-   1,080 adult seals are already immune, so the number of additional seals that need to be made immune through vaccination is: 3,618−1,080=2,538 seals need to be vaccinated.3,618 - 1,080 = 2,538 \text{ seals need to be vaccinated}.3,618−1,080=2,538 seals need to be vaccinated.
+
+Thus, **2,538 seals** in the population should be vaccinated to achieve herd immunity and prevent an outbreak of PDV.
+
+**Fecal Float Procedure**
+
+### Procedure
+
+1.  **Prepare the Sample**:
+
+    -   Using an applicator stick, collect a small amount (pea-sized) of fecal matter. Place it in a container or directly into a fecalyzer or centrifuge tube.
+
+2.  **Add Flotation Solution**:
+
+    -   Add the flotation solution to the fecal matter in the container or tube until about half full. The high specific gravity of the solution will allow parasite eggs to float.
+
+3.  **Mix the Sample**:
+
+    -   Use the applicator stick to mix the fecal matter thoroughly with the flotation solution, breaking up any clumps. This step ensures any parasite eggs are suspended in the liquid.
+
+4.  **Filter (Optional)**:
+
+    -   If there is a lot of solid debris, you may want to filter the solution through gauze or a strainer into a second container or tube to remove larger particles.
+
+5.  **Add More Flotation Solution**:
+
+    -   Add additional flotation solution until the liquid level is just slightly above the rim of the tube or container, creating a convex meniscus (rounded surface).
+
+6.  **Place the Coverslip**:
+
+    -   Carefully place a coverslip on top of the meniscus. The coverslip should rest on the surface tension of the solution.
+
+7.  **Incubate**:
+
+    -   Let the setup sit undisturbed for 10–15 minutes. During this time, any parasite eggs will float up and adhere to the coverslip.
+
+8.  **Examine Under the Microscope**:
+
+    -   After the incubation period, carefully lift the coverslip straight up and place it onto a microscope slide.
+
+    -   Examine the slide under the microscope at low magnification (typically 10x) and then under higher magnification (40x) to identify any parasite eggs.
+
+### Interpretation
+
+-   Look for the shape, size, and appearance of parasite eggs or cysts. Refer to a parasite identification chart if necessary.
+
+### Disposal
+
+-   Properly dispose of the used fecal sample, flotation solution, and any contaminated materials. Clean all equipment thoroughly.
