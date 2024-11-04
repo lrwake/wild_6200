@@ -211,3 +211,25 @@ Thus, **2,538 seals** in the population should be vaccinated to achieve herd imm
 ### Disposal
 
 -   Properly dispose of the used fecal sample, flotation solution, and any contaminated materials. Clean all equipment thoroughly.
+
+### **Marburg Virus Assignment**
+
+#### **1. Classification of the Outbreak: Spillover Event or Emerging Infectious Disease?**
+
+Using Fenton and Pedersen’s community epidemiology framework, the Marburg virus outbreak could be classified as a spillover event. A spillover event typically occurs when a pathogen from a reservoir spills over into another species. In this case, the likely source of the infection is the Egyptian rousette bats, known carriers of the Marburg virus. Since the first infected individual contracted the virus while visiting a bat-inhabited cave, this represents an instance where a pathogen in a natural reservoir (the bats) was introduced to humans, potentially leading to a larger outbreak. If the virus adapts and becomes more efficiently transmissible among humans, then it may transition to being classified as an emerging infectious disease.
+
+#### **2. Measures to Reduce Transmission Risk in Community and Healthcare Settings**
+
+In a community epidemiology context, effective prevention and control measures for Marburg virus should be implemented in both the community and healthcare environments. Here are suggested interventions
+
+-   **Education and Awareness**: Inform the public about the risks of visiting bat-inhabited caves, especially in areas with known Marburg virus reservoirs.
+
+-   **Access Restrictions**: Restrict or control access to caves or areas where Egyptian rousette bats are present.
+
+-   **Personal Protective Measures**: Encourage the use of protective clothing and equipment when in areas with high risk of exposure to bat habitats.
+
+**Healthcare Setting:**
+
+-   **Enhanced Infection Control Practices**: Implement and educate the importance of  safe healthcare techniques, including the use of personal protective equipment (PPE) such as gloves, gowns, and masks.
+
+-   **Patient Isolation**: Ensure isolation of suspected or confirmed Marburg virus cases to prevent nosocomial (hospital-acquired) transmission.
