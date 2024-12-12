@@ -1,0 +1,99 @@
+---
+title: "Texas Data Code"
+output: html_notebook
+---
+
+
+
+```{r}
+# Load necessary libraries
+library(dplyr)
+library(lubridate)
+library(readr)
+
+# Load the CSV file
+file_path <- "C:/Users/lrwak/Downloads/10953_new.csv" 
+data <- read_csv(file_path)
+
+# Select only the necessary columns
+columns_to_keep <- c(
+  "UNIQUE_NUMBER",
+  "ESTIMATED_BIRTH_DATE",
+  "ADDED_DATE",
+  "REMOVED_DATE",
+  "POSTMORT_SMPL_CLLCTN_DATE",
+  "ANTEMORT_SMPL_CLLCTN_DATE"
+)
+data_filtered <- data[ , columns_to_keep]
+
+# Process the data to calculate the year when each unique number was one year old
+one_year_old_table <- data_filtered %>%
+  mutate(
+    BIRTH_YEAR = year(dmy(ESTIMATED_BIRTH_DATE)), # Extract the birth year
+    YEAR_ONE_YEAR_OLD = BIRTH_YEAR + 1           # Add 1 year to birth year
+  ) %>%
+  select(UNIQUE_NUMBER, ESTIMATED_BIRTH_DATE, BIRTH_YEAR, YEAR_ONE_YEAR_OLD, ADDED_DATE, REMOVED_DATE)
+
+# Save the filtered data and one-year-old table to CSV files
+write_csv(data_filtered, "filtered_data.csv")
+write_csv(one_year_old_table, "one_year_old_table.csv")
+
+# Display the resulting table
+print(one_year_old_table)
+
+
+```
+
+```{r}
+# Load necessary libraries
+library(dplyr)
+library(lubridate)
+library(readr)
+
+# Load the CSV file
+file_path <- "C:/Users/lrwak/Downloads/10953_new.csv"
+data <- read_csv(file_path)
+
+# Select only the necessary columns
+columns_to_keep <- c(
+  'UNIQUE_NUMBER',
+  'ESTIMATED_BIRTH_DATE',
+  'ADDED_DATE',
+  'REMOVED_DATE',
+  'POSTMORT_SMPL_CLLCTN_DATE',
+  'ANTEMORT_SMPL_CLLCTN_DATE'
+)
+data_filtered <- data[ , columns_to_keep]
+
+# Safely process the data to calculate the year when each unique number was one year old
+data_filtered <- data_filtered %>%
+  mutate(
+    ESTIMATED_BIRTH_DATE = suppressWarnings(dmy(ESTIMATED_BIRTH_DATE)), # Parse dates safely
+    BIRTH_YEAR = if_else(is.na(ESTIMATED_BIRTH_DATE), NA_integer_, year(ESTIMATED_BIRTH_DATE)),
+    YEAR_ONE_YEAR_OLD = if_else(is.na(BIRTH_YEAR), NA_integer_, BIRTH_YEAR + 1)
+  )
+
+# Log invalid rows
+invalid_dates <- data_filtered %>% filter(is.na(ESTIMATED_BIRTH_DATE))
+if (nrow(invalid_dates) > 0) {
+  warning("Some rows have invalid ESTIMATED_BIRTH_DATE values.")
+  write_csv(invalid_dates, "invalid_dates_log.csv")
+}
+
+# Save the filtered data and one-year-old table to CSV files
+write_csv(data_filtered, "filtered_data.csv")
+
+# Create a table for valid rows
+one_year_old_table <- data_filtered %>%
+  filter(!is.na(ESTIMATED_BIRTH_DATE)) %>%
+  select(UNIQUE_NUMBER, ESTIMATED_BIRTH_DATE, BIRTH_YEAR, YEAR_ONE_YEAR_OLD, ADDED_DATE, REMOVED_DATE)
+
+write_csv(one_year_old_table, "one_year_old_table.csv")
+
+# Display the resulting table
+print(one_year_old_table)
+
+getwd()
+```
+
+
