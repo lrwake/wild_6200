@@ -12,7 +12,7 @@ library(lubridate)
 library(readr)
 
 # Load the CSV file
-file_path <- "C:/Users/lrwak/Downloads/10953_new.csv" 
+file_path <- "C:/Users/lrwak/Downloads/10953B_new.csv" 
 data <- read_csv(file_path)
 
 # Select only the necessary columns
@@ -29,7 +29,7 @@ data_filtered <- data[ , columns_to_keep]
 # Process the data to calculate the year when each unique number was one year old
 one_year_old_table <- data_filtered %>%
   mutate(
-    BIRTH_YEAR = year(dmy(ESTIMATED_BIRTH_DATE)), # Extract the birth year
+    BIRTH_YEAR = year(mdy(ESTIMATED_BIRTH_DATE)), # Extract the birth year,
     YEAR_ONE_YEAR_OLD = BIRTH_YEAR + 1           # Add 1 year to birth year
   ) %>%
   select(UNIQUE_NUMBER, ESTIMATED_BIRTH_DATE, BIRTH_YEAR, YEAR_ONE_YEAR_OLD, ADDED_DATE, REMOVED_DATE)
@@ -48,52 +48,120 @@ print(one_year_old_table)
 # Load necessary libraries
 library(dplyr)
 library(lubridate)
-library(readr)
 
-# Load the CSV file
-file_path <- "C:/Users/lrwak/Downloads/10953_new.csv"
-data <- read_csv(file_path)
+# Read the dataset
+data <- read.csv("one_year_old_table.csv")
 
-# Select only the necessary columns
-columns_to_keep <- c(
-  'UNIQUE_NUMBER',
-  'ESTIMATED_BIRTH_DATE',
-  'ADDED_DATE',
-  'REMOVED_DATE',
-  'POSTMORT_SMPL_CLLCTN_DATE',
-  'ANTEMORT_SMPL_CLLCTN_DATE'
-)
-data_filtered <- data[ , columns_to_keep]
-
-# Safely process the data to calculate the year when each unique number was one year old
-data_filtered <- data_filtered %>%
+# Parse dates and calculate the years present in the facility
+data <- data %>%
   mutate(
-    ESTIMATED_BIRTH_DATE = suppressWarnings(dmy(ESTIMATED_BIRTH_DATE)), # Parse dates safely
-    BIRTH_YEAR = if_else(is.na(ESTIMATED_BIRTH_DATE), NA_integer_, year(ESTIMATED_BIRTH_DATE)),
-    YEAR_ONE_YEAR_OLD = if_else(is.na(BIRTH_YEAR), NA_integer_, BIRTH_YEAR + 1)
+    ADDED_DATE = as.Date(ADDED_DATE, format = "%m/%d/%Y"),
+    REMOVED_DATE = as.Date(REMOVED_DATE, format = "%m/%d/%Y"),
+    REMOVED_DATE = ifelse(is.na(REMOVED_DATE), Sys.Date(), REMOVED_DATE), # Use current date if REMOVED_DATE is NA
+    REMOVED_DATE = as.Date(REMOVED_DATE, origin = "1970-01-01")
   )
 
-# Log invalid rows
-invalid_dates <- data_filtered %>% filter(is.na(ESTIMATED_BIRTH_DATE))
-if (nrow(invalid_dates) > 0) {
-  warning("Some rows have invalid ESTIMATED_BIRTH_DATE values.")
-  write_csv(invalid_dates, "invalid_dates_log.csv")
-}
+# Adjust reporting year range (4/1/XX - 3/31/XX)
+data <- data %>%
+  mutate(
+    ADDED_YEAR = ifelse(month(ADDED_DATE) >= 4, year(ADDED_DATE), year(ADDED_DATE) - 1),
+    REMOVED_YEAR = ifelse(month(REMOVED_DATE) >= 4, year(REMOVED_DATE), year(REMOVED_DATE) - 1)
+  )
 
-# Save the filtered data and one-year-old table to CSV files
-write_csv(data_filtered, "filtered_data.csv")
+# Add testing dates for antemortem or postmortem testing
+filtered_data <- read.csv("filtered_data.csv")
+filtered_data <- filtered_data %>%
+  mutate(
+    POSTMORT_SMPL_CLLCTN_DATE = as.Date(POSTMORT_SMPL_CLLCTN_DATE, format = "%m/%d/%Y"),
+    ANTEMORT_SMPL_CLLCTN_DATE = as.Date(ANTEMORT_SMPL_CLLCTN_DATE, format = "%m/%d/%Y")
+  )
 
-# Create a table for valid rows
-one_year_old_table <- data_filtered %>%
-  filter(!is.na(ESTIMATED_BIRTH_DATE)) %>%
-  select(UNIQUE_NUMBER, ESTIMATED_BIRTH_DATE, BIRTH_YEAR, YEAR_ONE_YEAR_OLD, ADDED_DATE, REMOVED_DATE)
+# Merge the testing data with the main dataset
+data <- data %>%
+  left_join(filtered_data %>% select(UNIQUE_NUMBER, POSTMORT_SMPL_CLLCTN_DATE, ANTEMORT_SMPL_CLLCTN_DATE), by = "UNIQUE_NUMBER")
 
-write_csv(one_year_old_table, "one_year_old_table.csv")
+# Generate the reporting years each individual was in the facility
+data_years <- data %>%
+  rowwise() %>%
+  mutate(Years_Present = list(seq(ADDED_YEAR, REMOVED_YEAR, by = 1))) %>%
+  unnest(cols = c(Years_Present)) %>%
+  distinct(UNIQUE_NUMBER, Years_Present, .keep_all = TRUE)  # Remove duplicates
 
-# Display the resulting table
-print(one_year_old_table)
+# Include the relevant testing date for each individual
+data_years <- data_years %>%
+  mutate(
+    TESTING_DATE = case_when(
+      !is.na(POSTMORT_SMPL_CLLCTN_DATE) ~ POSTMORT_SMPL_CLLCTN_DATE,
+      !is.na(ANTEMORT_SMPL_CLLCTN_DATE) ~ ANTEMORT_SMPL_CLLCTN_DATE,
+      TRUE ~ NA_Date_
+    )
+  )
 
+# Display the result
+data_years <- data_years %>% select(UNIQUE_NUMBER, Years_Present, TESTING_DATE)
+print(data_years)
+
+# Write CSV file
+write_csv(data_years, "data_years.csv")
+
+# Get current working directory
 getwd()
+
 ```
+```{r}
+# Load necessary libraries
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+# Load the datasets
+data_years <- read.csv("data_years.csv")
+one_year_old_table <- read.csv("one_year_old_table.csv")
+
+# Preprocess dates
+one_year_old_table <- one_year_old_table %>%
+  mutate(
+    ADDED_DATE = as.Date(ADDED_DATE, format = "%m/%d/%Y"),
+    REMOVED_DATE = as.Date(REMOVED_DATE, format = "%m/%d/%Y"),
+    ESTIMATED_BIRTH_DATE = as.Date(ESTIMATED_BIRTH_DATE, format = "%m/%d/%Y")
+  )
+
+data_years <- data_years %>%
+  mutate(
+    TESTING_DATE = as.Date(TESTING_DATE, format = "%m/%d/%Y")
+  )
+
+# Merge datasets on UNIQUE_NUMBER
+merged_data <- data_years %>%
+  left_join(one_year_old_table, by = "UNIQUE_NUMBER")
+
+# Extract the reporting year from the testing date (aligning with 4/1/XX - 3/31/XX)
+merged_data <- merged_data %>%
+  mutate(
+    Testing_Year = case_when(
+      !is.na(TESTING_DATE) & month(TESTING_DATE) < 4 ~ year(TESTING_DATE) - 1,
+      !is.na(TESTING_DATE) ~ year(TESTING_DATE),
+      TRUE ~ NA_integer_
+    )
+  )
+
+# Reshape the data: Years vertically and Unique IDs listed below
+reshaped_data <- merged_data %>%
+  select(Years_Present, UNIQUE_NUMBER, Testing_Year) %>%
+  distinct() %>%  # Remove duplicates
+  mutate(
+    Tested = ifelse(!is.na(Testing_Year), "Yes", "No")  # Indicate if tested
+  ) %>%
+  arrange(Years_Present, UNIQUE_NUMBER)  # Sort by year and ID
+
+# Output the reshaped data
+print(reshaped_data)
+
+# Save the reshaped data to a CSV file
+write.csv(reshaped_data, "reshaped_data.csv", row.names = FALSE)
+
+```
+
+
 
 

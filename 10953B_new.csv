@@ -1,0 +1,784 @@
+﻿UNIQUE_NUMBER,SPECIES,DEER_SEX,ESTIMATED_BIRTH_DATE,HOW_ADDED,ADDED_DATE,SOURCE_FACILITY,HOW_REMOVED,REMOVED_DATE,DESTINATION_FID,DESTINATION_TYPE,REPORTED_DEATH_DATE,CAUSE_OF_DEATH,FACILITY_WHERE_DEAD,POSTMORT_TEST_RESULT,POSTMORT_SMPL_CLLCTN_DATE,POSTMORT_TISSUE_TYPE,ANTEMORT_TEST_RESULT,ANTEMORT_SMPL_CLLCTN_DATE,ANTEMORT_FCLTY_WHERE_TESTED,ANTEMORT_TISSUE_TYPE
+00533,White-Tailed Deer,F,7/8/2020,Transferred,4/17/2021,5070B,Death,9/13/2023,,,9/13/2023,Pneumonia,10953B,Post-mortem Obex and RLN,9/13/2023,Obex and RLN Not Detected,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+009LY,White-Tailed Deer,F,6/2/2020,Transferred,3/11/2021,13643B,Death,6/28/2021,,,6/28/2021,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,6/28/2021,Obex and RLN Not Detected,,,,
+009M8,White-Tailed Deer,F,6/5/2020,Transferred,4/13/2022,13643B,Death,3/27/2024,,,3/27/2024,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,3/27/2024,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+015WC,White-Tailed Deer,F,6/20/2021,Transferred,5/2/2023,21472B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,,,,
+01C4N,White-Tailed Deer,F,8/1/2020,Transferred,10/18/2022,12014B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01KN4,White-Tailed Deer,F,5/30/2020,Transferred,4/10/2023,16645B,Death,9/13/2023,,,9/13/2023,Pneumonia,10953B,Post-mortem Obex and RLN,9/13/2023,Obex and RLN Not Detected,Ante-mortem Rectal,2/3/2023,16645B,Not detected
+01LQN,White-Tailed Deer,F,5/26/2020,Transferred,6/2/2021,2420B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,,,,
+01LR2,White-Tailed Deer,F,5/28/2020,Transferred,6/2/2021,2420B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,,,,
+01M0H,White-Tailed Deer,F,8/9/2020,Transferred,4/24/2023,2420B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,,,,
+01N8M,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N8N,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+01N8P,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Death,12/31/2022,,,12/31/2022,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,,,,
+01N8Q,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N8R,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Death,9/18/2023,,,9/18/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,9/19/2023,Obex and RLN Not Detected,Ante-mortem Rectal,3/9/2023,10953B,Not detected
+01N8T,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,8/23/2024,20349R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N8V,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N8W,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,9/16/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N8X,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N8Y,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,9/27/2023,,,9/27/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,9/27/2023,Obex and RLN Not Detected,,,,
+01N90,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Death,11/28/2023,,,11/28/2023,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,11/29/2023,Obex and RLN Not Detected,Ante-mortem Rectal,3/9/2023,10953B,Not detected
+01N91,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,9/16/2024,24892R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N92,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Death,3/31/2022,,,3/31/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/31/2022,Obex and RLN Not Detected,,,,
+01N93,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Death,1/19/2023,,,1/19/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/24/2023,Not detected,,,,
+01N94,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,9/16/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N95,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01N96,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,9/16/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N97,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,9/16/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N98,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,8/23/2024,20349R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N99,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N9B,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Death,1/23/2023,,,1/23/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/24/2023,Obex and RLN Not Detected,,,,
+01N9C,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,9/16/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N9F,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Death,3/31/2022,,,3/31/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/31/2022,"Obex Location, RLN Not Detected",,,,
+01N9G,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/31/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01N9H,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,1/19/2023,,,1/19/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/24/2023,Not detected,,,,
+01N9J,White-Tailed Deer,M,6/12/2020,Birth,6/12/2020,,Transferred,8/23/2024,20349R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N9K,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Death,3/31/2022,,,3/31/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/31/2022,"Obex Location, RLN Not Detected",,,,
+01N9L,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,9/1/2024,24352R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N9M,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,3/6/2023,,,3/6/2023,Pneumonia,10953B,Post-mortem Obex and RLN,3/6/2023,Obex and RLN Not Detected,,,,
+01N9N,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01N9P,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,9/13/2024,24866R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N9Q,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01N9R,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Death,9/18/2023,,,9/18/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,9/18/2023,Obex and RLN Not Detected,Ante-mortem Rectal,3/9/2023,10953B,Not detected
+01N9T,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,8/23/2024,20349R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N9V,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,8/23/2024,20349R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01N9W,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,2/17/2024,12089R,R,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01N9X,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/16/2024,20487R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01N9Y,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,8/23/2024,20349R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01NB0,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,5/9/2024,,,5/9/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,5/9/2024,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NB1,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/13/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NB2,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01NB3,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01NB4,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+01NB5,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,3/3/2023,,,3/3/2023,Accidental Death or Injury,10953B,,,,,,,
+01NB6,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,9/15/2024,12691R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01NB7,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NB8,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Death,11/28/2023,,,11/28/2023,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,11/29/2023,Obex and RLN Not Detected,Ante-mortem Rectal,3/9/2023,10953B,Not detected
+01NB9,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NBB,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,9/6/2024,20349R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01NBC,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,9/16/2024,24892R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01NBF,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01NBG,White-Tailed Deer,M,6/20/2020,Birth,6/20/2020,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+01NBH,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/13/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NBJ,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,12/31/2022,,,12/31/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,,,,
+01NBK,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NBL,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,1/29/2024,,,1/29/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/29/2024,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NBM,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NBN,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+01NBP,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,10/9/2023,,,10/9/2023,Pneumonia,10953B,Post-mortem Obex and RLN,10/9/2023,Obex and RLN Not Detected,,,,
+01NBQ,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/13/2024,24866R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NBR,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,1/27/2024,,,1/27/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/29/2024,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NBT,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,10/26/2022,17400B,B,12/19/2023,Culled for CWD Testing,17400B,Post-mortem Obex and RLN,12/19/2023,Obex and RLN Not Detected,,,,
+01NBV,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/16/2024,24892R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NBW,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NBX,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NBY,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,1/19/2023,,,1/19/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/24/2023,Obex and RLN Not Detected,,,,
+01NC0,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/31/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NC1,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NC2,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NC3,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NC4,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NC5,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NC6,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/6/2024,20349R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NC7,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,2/17/2024,12089R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NC8,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,7/28/2024,,,7/28/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,7/28/2024,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NC9,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NCB,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Death,9/14/2023,,,9/14/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,9/14/2023,Obex and RLN Not Detected,,,,
+01NCC,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,2/17/2024,12089R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NCF,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,5/12/2023,21965R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NCG,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,2/17/2024,12089R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NCH,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,3/30/2022,17903R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+01NCJ,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NCK,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/31/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NCL,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Death,7/26/2024,,,7/26/2024,Giving Birth,10953B,Post-mortem Obex and RLN,7/26/2024,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NCM,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Death,9/19/2023,,,9/19/2023,Pneumonia,10953B,Post-mortem Obex and RLN,9/19/2023,Obex and RLN Not Detected,,,,
+01NCN,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/16/2024,24892R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NCP,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,4/26/2021,19888B,B,,,,,,,,,,
+01NCQ,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,4/8/2022,20072R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+01NCR,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NCT,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Death,7/25/2024,,,7/25/2024,Pneumonia,10953B,Post-mortem Obex and RLN,7/25/2024,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NCV,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,4/28/2023,716B,B,7/11/2023,Culled for CWD Testing,716B,Post-mortem Obex and RLN,7/11/2023,Obex and RLN Not Detected,,,,
+01NCW,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,3/4/2023,,,3/4/2023,Pneumonia,10953B,Post-mortem Obex and RLN,3/6/2023,Obex and RLN Not Detected,,,,
+01NCX,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/16/2024,24892R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NCY,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,3/3/2023,,,3/3/2023,Accidental Death or Injury,10953B,,,,,,,
+01NF0,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Death,3/28/2022,,,3/28/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/28/2022,Obex and RLN Not Detected,,,,
+01NF1,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/13/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NF2,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NF3,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,4/29/2021,2577B,B,,,,,,,Ante-mortem Rectal,11/1/2023,2577B,Not detected
+01NF4,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Death,11/27/2022,,,11/27/2022,Pneumonia,10953B,Post-mortem Obex and RLN,11/30/2022,Not detected,,,,
+01NF5,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,3/6/2023,,,3/6/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/6/2023,Obex and RLN Not Detected,,,,
+01NF6,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,5/12/2023,21965R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NF7,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NF8,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,4/15/2023,23009R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NF9,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,10/18/2022,16166B,B,,,,,,,,,,
+01NFB,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Death,3/28/2022,,,3/28/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/28/2022,"Obex Location, RLN Not Detected",,,,
+01NFC,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NFF,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Death,3/25/2022,,,3/25/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/25/2022,Obex and RLN Not Detected,,,,
+01NFG,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NFH,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NFJ,White-Tailed Deer,F,6/12/2020,Birth,6/12/2020,,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+01NFK,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,4/15/2023,2577B,B,,,,,,,Ante-mortem Rectal,11/1/2023,2577B,Not detected
+01NFL,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NFM,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,6/16/2022,,,6/16/2022,EHD - Blue Tongue Disease,10953B,Post-mortem Obex and RLN,6/16/2022,Obex and RLN Not Detected,,,,
+01NFN,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,5/12/2023,21965R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NFP,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,4/29/2021,2577B,B,,,,,,,Ante-mortem Rectal,11/1/2023,2577B,Not detected
+01NFQ,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Death,11/27/2022,,,11/27/2022,Pneumonia,10953B,Post-mortem Obex and RLN,11/30/2022,Not detected,,,,
+01NFR,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,11/28/2022,,,11/28/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,11/30/2022,Obex and RLN Not Detected,,,,
+01NFT,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NFV,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Death,7/24/2023,,,7/24/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,,,,
+01NFW,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,5/15/2023,20487R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NFX,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NFY,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,2/17/2024,12089R,R,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NG0,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+01NG1,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,1/1/2023,,,1/1/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,,,,
+01NG2,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+01NG3,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+01NG4,White-Tailed Deer,F,6/25/2020,Birth,6/25/2020,,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+01NG5,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NG6,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,11/28/2022,,,11/28/2022,Pneumonia,10953B,Post-mortem Obex and RLN,11/30/2022,"Obex Location, RLN Not Detected",,,,
+01NG7,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NG8,White-Tailed Deer,F,6/22/2021,Birth,6/22/2021,,Transferred,3/31/2022,20026B,B,,,,,,,,,,
+01NG9,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NGB,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+01NGC,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+01NGF,White-Tailed Deer,F,6/21/2021,Birth,6/21/2021,,Transferred,4/2/2022,2577B,B,,,,,,,Ante-mortem Rectal,11/1/2023,2577B,Not detected
+01NGG,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,1/21/2023,,,1/21/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/24/2023,Obex and RLN Not Detected,,,,
+01NGH,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NGJ,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,11/26/2022,,,11/26/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,11/30/2022,"Obex Location, RLN Not Detected",,,,
+01NGK,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NGL,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NGM,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,5/12/2023,21965R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NGN,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/6/2023,19953B,B,11/12/2023,Accidental Death or Injury,19953B,Post-mortem Obex and RLN,11/13/2023,Obex and RLN Not Detected,,,,
+01NGP,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,5/12/2023,21965R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NGQ,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+01NGR,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/15/2023,15020R,R,,,,,,,Ante-mortem Rectal,3/9/2023,10953B,Not detected
+01NGT,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NGV,White-Tailed Deer,F,6/22/2021,Birth,6/22/2021,,Transferred,4/14/2022,17833B,B,12/21/2023,Culled for CWD Testing,17833B,Post-mortem Obex and RLN,12/21/2023,Obex and RLN Not Detected,,,,
+01NGX,White-Tailed Deer,F,6/22/2021,Birth,6/22/2021,,Transferred,3/31/2022,20026B,B,,,,,,,,,,
+01NGY,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NH0,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NH1,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NH3,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,5/12/2023,21965R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NH5,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,10/26/2022,17400B,B,12/19/2023,Culled for CWD Testing,17400B,Post-mortem Obex and RLN,12/19/2023,Obex and RLN Not Detected,,,,
+01NH6,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/15/2023,23009R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+01NH7,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,11/26/2022,,,11/26/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,11/30/2022,Obex and RLN Not Detected,,,,
+01NH8,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,5/15/2023,20487R,R,,,,,,,Ante-mortem Rectal,3/9/2023,10953B,Not detected
+01NH9,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,10/18/2024,,,10/18/2024,Pneumonia,10953B,Post-mortem Obex and RLN,10/18/2024,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NHB,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,11/29/2023,,,11/29/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,11/29/2023,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NHC,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,10/18/2022,16166B,B,,,,,,,Ante-mortem Rectal,5/14/2024,16166B,Not detected
+01NHF,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NHJ,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NHK,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NHL,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Death,12/11/2023,,,12/11/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,12/11/2023,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NHM,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NHN,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NHQ,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/31/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+01NHR,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Death,11/28/2023,,,11/28/2023,Pneumonia,10953B,Post-mortem Obex and RLN,11/29/2023,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+01NHT,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NHV,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+01NQF,White-Tailed Deer,F,6/1/2020,Transferred,2/25/2021,1689B,Transferred,3/29/2022,12014B,B,7/10/2023,Accidental Death or Injury,12014B,Post-mortem Obex and RLN,7/10/2023,Obex and RLN Not Detected,,,,
+03HNQ,White-Tailed Deer,M,5/28/2021,Transferred,11/4/2021,13647B,Death,12/9/2023,,,12/9/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,12/11/2023,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+03HV1,White-Tailed Deer,F,7/1/2021,Transferred,11/4/2021,13647B,Death,3/28/2022,,,3/28/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/28/2022,"Obex Location, RLN Not Detected",,,,
+03YV9,White-Tailed Deer,F,6/2/2021,Transferred,11/2/2022,3496B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+03YWC,White-Tailed Deer,F,6/6/2021,Transferred,11/2/2022,3496B,Death,1/21/2023,,,1/21/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/24/2023,Obex and RLN Not Detected,,,,
+043M2,White-Tailed Deer,F,6/2/2021,Transferred,3/29/2022,12014B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+043M3,White-Tailed Deer,F,6/2/2021,Transferred,3/29/2022,12014B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+043NM,White-Tailed Deer,M,6/1/2022,Transferred,10/18/2022,12014B,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+046T7,White-Tailed Deer,F,5/30/2022,Transferred,4/24/2023,2420B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,,,,
+046TQ,White-Tailed Deer,F,5/31/2022,Transferred,3/7/2023,2420B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,,,,
+047NG,White-Tailed Deer,F,5/30/2021,Transferred,4/28/2022,4881B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+047NJ,White-Tailed Deer,F,5/30/2021,Transferred,4/28/2022,4881B,Death,1/1/2023,,,1/1/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,,,,
+047NL,White-Tailed Deer,F,5/30/2021,Transferred,4/28/2022,4881B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+0495R,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/16/2024,20487R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+0495T,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/16/2024,24892R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+0495V,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,6/14/2022,,,6/14/2022,EHD - Blue Tongue Disease,10953B,Post-mortem Obex and RLN,6/16/2022,Obex and RLN Not Detected,,,,
+0495W,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/31/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+0495X,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,1/27/2024,,,1/27/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/29/2024,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+0495Y,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04960,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+04961,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04962,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Death,10/9/2023,,,10/9/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,10/9/2023,Obex and RLN Not Detected,,,,
+04963,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/13/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+04964,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/23/2024,20349R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+04965,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+04966,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/31/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+04967,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/16/2024,20487R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+04968,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04969,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,10/26/2022,17400B,B,12/19/2023,Culled for CWD Testing,17400B,Post-mortem Obex and RLN,12/19/2023,Obex and RLN Not Detected,,,,
+0496B,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/24/2023,20072R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+0496C,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/15/2023,23009R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+0496F,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/15/2023,15020R,R,,,,,,,Ante-mortem Rectal,3/9/2023,10953B,Not detected
+0496G,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,11/26/2022,,,11/26/2022,Pneumonia,10953B,Post-mortem Obex and RLN,11/30/2022,Obex and RLN Not Detected,,,,
+0496H,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,3/27/2023,21390R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+0496J,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+0496K,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+0496L,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+0496M,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/1/2023,17781B,B,,,,,,,,,,
+0496N,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+0496P,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,11/26/2022,,,11/26/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,11/30/2022,"Obex Location, RLN Not Detected",,,,
+0496Q,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+0496R,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+0496T,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+0496V,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,1/4/2023,,,1/4/2023,Pneumonia,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,,,,
+0496W,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+0496X,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+0496Y,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/29/2024,24352R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+04970,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04971,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,9/6/2024,20349R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+04972,White-Tailed Deer,M,6/29/2021,Birth,6/29/2021,,Transferred,8/31/2024,24571R,R,,,,,,,Ante-mortem Rectal,7/26/2024,10953B,Not detected
+04973,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04974,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04975,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,Death,10/21/2024,,,10/21/2024,Pneumonia,10953B,Post-mortem Obex and RLN,10/21/2024,Obex and RLN Not Detected,,,,
+04976,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04977,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,3/8/2023,,,3/8/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/8/2023,Obex and RLN Not Detected,,,,
+04978,White-Tailed Deer,F,6/30/2021,Birth,6/30/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04979,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Death,1/4/2023,,,1/4/2023,Pneumonia,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,,,,
+0497B,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+0497C,White-Tailed Deer,F,6/29/2021,Birth,6/29/2021,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04C16,White-Tailed Deer,F,6/16/2021,Transferred,10/23/2021,10002B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+04K7H,White-Tailed Deer,M,7/1/2021,Transferred,11/4/2021,13647B,Death,12/31/2022,,,12/31/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,,,,
+062G7,White-Tailed Deer,M,6/12/2022,Transferred,4/10/2023,16645B,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+062GB,White-Tailed Deer,F,6/12/2022,Transferred,4/10/2023,16645B,Death,9/14/2023,,,9/14/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,9/14/2023,"Obex Location, RLN Not Detected",Ante-mortem Rectal,2/5/2023,16645B,Not detected
+070R4,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Death,10/9/2023,,,10/9/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,10/9/2023,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070R5,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070R6,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070R7,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070R8,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070R9,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Death,12/11/2023,,,12/11/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,12/11/2023,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RB,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RC,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RF,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RG,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RH,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RJ,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070RK,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070RL,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070RM,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070RN,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070RP,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070RQ,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070RR,White-Tailed Deer,F,6/19/2022,Birth,6/19/2022,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+070RT,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RV,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RW,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RX,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070RY,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070T0,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070T1,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Death,7/22/2024,,,7/22/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,7/22/2024,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070T2,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070T3,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070T4,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/28/2023,716B,B,7/11/2023,Culled for CWD Testing,716B,Post-mortem Obex and RLN,7/11/2023,Obex and RLN Not Detected,,,,
+070T5,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Death,10/9/2023,,,10/9/2023,Pneumonia,10953B,Post-mortem Obex and RLN,10/9/2023,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070T6,White-Tailed Deer,M,6/19/2022,Birth,6/19/2022,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+070T7,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070T8,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070T9,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TB,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,Death,10/22/2024,,,10/22/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,10/22/2024,Obex and RLN Not Detected,,,,
+070TC,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TF,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TG,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TH,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,Death,5/9/2024,,,5/9/2024,Pneumonia,10953B,Post-mortem Obex and RLN,5/9/2024,Obex and RLN Not Detected,,,,
+070TJ,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TK,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TL,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TM,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TN,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TP,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TQ,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TR,White-Tailed Deer,M,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TT,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TV,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,,,,,,,,,,,,,,
+070TW,White-Tailed Deer,F,6/28/2023,Birth,6/28/2023,,Death,7/24/2024,,,7/24/2024,Pneumonia,10953B,Post-mortem Obex and RLN,7/24/2024,Obex and RLN Not Detected,,,,
+0FE6,White-Tailed Deer,F,6/5/2019,Transferred,5/20/2020,16880B,Death,1/1/2023,,,1/1/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,,,,
+0GAQ,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,15660R,R,,,,,,,,,,
+0GAR,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/7/2019,4992R,R,,,,,,,,,,
+0GAT,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/9/2019,15660R,R,,,,,,,,,,
+0GAV,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/3/2020,17923B,B,,,,,,,Ante-mortem Rectal,2/29/2024,17923B,Not detected
+0GAW,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,15660R,R,,,,,,,,,,
+0GAX,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,4992R,R,,,,,,,,,,
+0GAY,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+0GBA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,3/18/2018,4992R,R,,,,,,,,,,
+0GCA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,15660R,R,,,,,,,,,,
+0GFA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Death,12/14/2018,,,12/14/2018,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,2/28/2019,"Obex Location, RLN Not Detected",,,,
+0GGA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,4992R,R,,,,,,,,,,
+0GHA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/9/2019,15660R,R,,,,,,,,,,
+0GJA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/7/2019,4992R,R,,,,,,,,,,
+0GKA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,15660R,R,,,,,,,,,,
+0GLA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,4992R,R,,,,,,,,,,
+0GMA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,15660R,R,,,,,,,,,,
+0GNA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,12/10/2019,16250D,D,,,,,,,,,,
+0GPA,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+0GQA,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,4/15/2023,15020R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+0GRA,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/14/2020,15020R,R,,,,,,,,,,
+0GTA,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+0GVA,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+0GWA,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,2/19/2020,15660R,R,,,,,,,,,,
+0GXA,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+0GYA,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/25/2019,2577B,B,,,,,,,Ante-mortem Rectal,11/6/2023,2577B,Not detected
+0H0A,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,2/11/2020,3608B,B,2/5/2024,Culled for CWD Testing,3608B,Post-mortem Obex and RLN,2/5/2024,Obex and RLN Not Detected,,,,
+0H1A,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,18841R,R,,,,,,,,,,
+0H2A,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+0H3A,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+0H4A,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,11/2/2017,5216B,B,3/7/2018,Culled for CWD Testing,5216B,Post-mortem Obex and RLN,3/7/2018,Obex and RLN Not Detected,,,,
+0H5A,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,2/7/2020,14583B,B,,,,,,,,,,
+0H6A,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+0H7A,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+0H8A,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/26/2018,5070B,B,,,,,,,,,,
+0H9A,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,3/30/2022,,,3/30/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/30/2022,Obex and RLN Not Detected,,,,
+0HA0,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/18/2018,4992R,R,,,,,,,,,,
+0HA1,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+0HA2,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Death,10/18/2024,,,10/18/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,10/18/2024,Obex and RLN Not Detected,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+0HA3,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,4/16/2019,5216B,B,8/15/2023,Culled for CWD Testing,16601R,Post-mortem Obex and RLN,8/15/2023,Obex and RLN Not Detected,,,,
+0HA4,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/18/2018,4992R,R,,,,,,,,,,
+0HA5,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Death,11/13/2018,,,11/13/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,2/28/2019,"Obex Location, RLN Not Detected",,,,
+0HA6,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,4/15/2023,15020R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+0HA7,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+0HA8,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Death,8/10/2018,,,8/10/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,2/28/2019,"Obex Location, RLN Not Detected",,,,
+0HA9,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,4992R,R,,,,,,,,,,
+0HAA,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/7/2019,4992R,R,,,,,,,,,,
+0HAB,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,15660R,R,,,,,,,,,,
+0HAC,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Death,1/26/2018,,,1/26/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/26/2018,Obex and RLN Not Detected,,,,
+0HAF,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,15660R,R,,,,,,,,,,
+0HAG,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/9/2019,15660R,R,,,,,,,,,,
+0V1E,White-Tailed Deer,F,5/29/2019,Transferred,1/24/2020,2557B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+21E4,White-Tailed Deer,F,6/4/2019,Transferred,10/8/2019,13788B,Death,11/22/2019,,,11/22/2019,Pneumonia,10953B,,,,,,,
+3CA4,White-Tailed Deer,F,7/1/2017,Transferred,11/1/2018,1498B,Transferred,4/9/2020,1498B,B,10/5/2023,Culled for CWD Testing,20363B,Post-mortem Obex and RLN,10/5/2023,Obex and RLN Not Detected,Ante-mortem Tonsil,4/4/2022,1498B,Not detected
+3CA9,White-Tailed Deer,F,7/1/2017,Transferred,3/8/2018,1498B,Death,11/13/2018,,,11/13/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,2/28/2019,Obex and RLN Not Detected,,,,
+3EPF,White-Tailed Deer,F,6/30/2019,Transferred,10/8/2019,13788B,Death,1/16/2020,,,1/16/2020,Pneumonia,10953B,,,,,,,
+4NEL,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,4/29/2021,5070B,B,8/6/2023,Culled for CWD Testing,713B,Post-mortem Obex and RLN,8/7/2023,Obex and RLN Not Detected,,,,
+4NEN,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Death,6/7/2022,,,6/7/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,6/16/2022,Obex and RLN Not Detected,,,,
+4NEP,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+4NEQ,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Death,6/27/2021,,,6/27/2021,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,6/28/2021,Obex and RLN Not Detected,,,,
+4NER,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+4NEX,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+4NFE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/3/2022,20349R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NGE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,20487R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NHE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,21469R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NLE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/3/2022,20349R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NME,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/14/2022,17903R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NNE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,20487R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NPE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,20487R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NTE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/16/2022,1091B,B,8/13/2023,Other Disease or Infection,1091B,Post-mortem Obex and RLN,8/14/2023,Obex and RLN Not Detected,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NVE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/3/2022,20349R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4NXE,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,4992R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+4P0E,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,4/14/2022,17236B,B,11/5/2023,Culled for CWD Testing,17236B,Post-mortem Obex and RLN,11/6/2023,Obex and RLN Not Detected,,,,
+4P1E,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,4/15/2023,23009R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+4XXA,White-Tailed Deer,F,6/13/2017,Transferred,10/10/2018,1427B,Transferred,4/9/2020,17923B,B,7/17/2023,Culled for CWD Testing,17923B,Post-mortem Obex and RLN,7/18/2023,Obex and RLN Not Detected,,,,
+4Y1A,White-Tailed Deer,F,6/13/2017,Transferred,10/10/2018,1427B,Transferred,4/9/2020,17923B,B,7/17/2023,Culled for CWD Testing,17923B,Post-mortem Obex and RLN,7/18/2023,Obex and RLN Not Detected,,,,
+500A,White-Tailed Deer,F,6/26/2017,Transferred,5/10/2019,1427B,Transferred,2/19/2020,15660R,R,,,,,,,,,,
+50A2,White-Tailed Deer,F,7/5/2017,Transferred,10/10/2018,1427B,Transferred,4/9/2020,17923B,B,7/17/2023,Culled for CWD Testing,17923B,Post-mortem Obex and RLN,7/18/2023,Obex and RLN Not Detected,,,,
+5G20,White-Tailed Deer,F,6/16/2009,Transferred,4/10/2015,1427B,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+5W4E,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,11/7/2020,19242D,D,,,,,,,,,,
+5W6E,White-Tailed Deer,F,6/28/2019,Birth,6/28/2019,,Transferred,3/24/2020,2577B,B,,,,,,,Ante-mortem Rectal,11/3/2022,2577B,Not detected
+5W8E,White-Tailed Deer,F,6/28/2019,Birth,6/28/2019,,Transferred,3/24/2020,2577B,B,9/12/2023,Culled for CWD Testing,20026B,Post-mortem Obex and RLN,9/12/2023,Obex and RLN Not Detected,,,,
+5XPA,White-Tailed Deer,F,6/20/2017,Transferred,3/25/2020,4881B,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+5XYA,White-Tailed Deer,F,6/20/2017,Transferred,3/14/2019,4881B,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+7ANN,White-Tailed Deer,F,7/9/2017,Transferred,10/19/2019,2577B,Transferred,11/7/2020,19242D,D,,,,,,,,,,
+7B4H,White-Tailed Deer,F,5/1/2007,Transferred,5/8/2018,2577B,Death,1/23/2023,,,1/23/2023,Pneumonia,10953B,Post-mortem Obex and RLN,1/24/2023,Obex and RLN Not Detected,,,,
+95A9,White-Tailed Deer,F,6/9/2017,Transferred,4/3/2019,13788B,Transferred,4/1/2023,17781B,B,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+96AM,White-Tailed Deer,F,6/9/2017,Transferred,4/3/2019,13788B,Death,9/27/2023,,,9/27/2023,Pneumonia,10953B,Post-mortem Obex and RLN,9/27/2023,Obex and RLN Not Detected,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+96AQ,White-Tailed Deer,F,6/9/2017,Transferred,4/3/2019,13788B,Death,1/1/2023,,,1/1/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+97WA,White-Tailed Deer,M,6/9/2017,Transferred,10/8/2019,13788B,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+993A,White-Tailed Deer,F,6/10/2017,Transferred,10/8/2019,13788B,Death,11/21/2019,,,11/21/2019,Pneumonia,10953B,Post-mortem Obex and RLN,11/30/2019,Obex and RLN Not Detected,,,,
+9NCW,White-Tailed Deer,F,7/1/2008,Transferred,4/10/2015,1427B,Death,4/1/2016,,,4/1/2016,Accidental Death or Injury,10953B,,,,,,,
+A2VP,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,18841R,R,,,,,,,,,,
+A2VQ,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,11/7/2020,19242D,D,,,,,,,,,,
+A2VR,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/8/2019,13469R,R,,,,,,,,,,
+A2VT,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+A2VV,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Death,12/12/2019,,,12/12/2019,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,12/30/2019,"Obex Location, RLN Not Detected",,,,
+A2VW,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/19/2020,15020R,R,,,,,,,,,,
+A2VX,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,4992R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+A2VY,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Death,12/1/2018,,,12/1/2018,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,2/28/2019,"Obex Location, RLN Not Detected",,,,
+A2W0,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/8/2019,13469R,R,,,,,,,,,,
+A2W1,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+A2W2,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+A2W3,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A2W4,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+A2W5,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A2W6,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/9/2020,4992R,R,,,,,,,,,,
+A2W7,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,4992R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+A2W8,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/20/2022,19704R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+A2W9,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/9/2020,17923B,B,,,,,,,,,,
+A2WA,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,5/7/2021,20072R,R,,,,,,,,,,
+A2WB,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/30/2020,12014B,B,,,,,,,,,,
+A2WC,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+A2WF,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,2/19/2020,15660R,R,,,,,,,,,,
+A2WG,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Death,11/25/2019,,,11/25/2019,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,11/30/2019,"Obex Location, RLN Not Detected",,,,
+A2WH,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+A2WJ,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+A2WK,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,3/31/2020,16880B,B,5/22/2021,Poison/Digestion/Rumen Problems,16880B,Post-mortem Obex and RLN,5/22/2021,Obex and RLN Not Detected,,,,
+A2WL,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,20487R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+A2WM,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,4/28/2021,16524B,B,,,,,,,,,,
+A2WN,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,3/14/2020,15020R,R,,,,,,,,,,
+A2WR,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,12/29/2020,,,12/29/2020,Pneumonia,10953B,Post-mortem Obex and RLN,1/4/2021,"Obex Location, RLN Not Detected",,,,
+A2WT,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,9/22/2020,17903R,R,,,,,,,,,,
+A2WV,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,2/27/2021,,,2/27/2021,Pneumonia,10953B,Post-mortem Obex and RLN,2/27/2021,"Obex Location, RLN Not Detected",,,,
+A2WW,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+A2WX,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+A2WY,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Death,12/14/2018,,,12/14/2018,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,2/28/2019,Obex and RLN Not Detected,,,,
+A2X1,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+A2X2,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,5/15/2019,3963R,R,,,,,,,,,,
+A2X3,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/8/2019,13469R,R,,,,,,,,,,
+A2X4,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+A2X5,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+A2X6,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+A2X7,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,18841R,R,,,,,,,,,,
+A2X8,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+A2X9,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/14/2020,15020R,R,,,,,,,,,,
+A2XA,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,18841R,R,,,,,,,,,,
+A2XB,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+A2XC,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Death,12/18/2019,,,12/18/2019,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,12/30/2019,"Obex Location, RLN Not Detected",,,,
+A2XF,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/8/2019,13469R,R,,,,,,,,,,
+A2XG,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A2XJ,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/9/2020,4992R,R,,,,,,,,,,
+A2XK,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,3/30/2022,,,3/30/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/30/2022,"Obex Location, RLN Not Detected",,,,
+A2XL,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Death,11/26/2020,,,11/26/2020,Pneumonia,10953B,Post-mortem Obex and RLN,12/1/2020,"Obex Location, RLN Not Detected",,,,
+A2XM,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/30/2018,1689B,B,9/14/2024,Accidental Death or Injury,17761B,Post-mortem Obex,9/15/2024,"Obex Only, Not Detected",Ante-mortem Rectal,8/2/2024,17761B,Not detected
+A2XN,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/9/2020,4992R,R,,,,,,,,,,
+A2XP,White-Tailed Deer,F,6/12/2018,Birth,6/12/2018,,Transferred,3/14/2019,2700B,B,,,,,,,Ante-mortem Rectal,2/9/2023,17441B,Not detected
+A2XQ,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/3/2020,17923B,B,12/13/2020,Unknown Cause,17923B,Post-mortem Obex and RLN,12/14/2020,Obex and RLN Not Detected,,,,
+A4B3,White-Tailed Deer,F,6/17/2017,Transferred,3/1/2018,13788B,Death,11/13/2018,,,11/13/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,2/28/2019,Obex and RLN Not Detected,,,,
+A4KF,White-Tailed Deer,M,5/30/2018,Transferred,10/8/2019,13788B,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A4KM,White-Tailed Deer,F,5/30/2018,Transferred,4/3/2019,13788B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+A4RG,White-Tailed Deer,M,6/13/2018,Transferred,10/8/2019,13788B,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A4TT,White-Tailed Deer,F,6/18/2018,Transferred,4/3/2019,13788B,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+A7G9,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/9/2020,17923B,B,,,,,,,,,,
+A7GA,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+A7GB,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,4/28/2021,16524B,B,7/18/2022,EHD - Blue Tongue Disease,16524B,Post-mortem Obex and RLN,7/18/2022,Obex and RLN Not Detected,,,,
+A7GC,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Death,11/14/2018,,,11/14/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,2/28/2019,Obex and RLN Not Detected,,,,
+A7GG,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,2/19/2020,15660R,R,,,,,,,,,,
+A7GH,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+A7GJ,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/3/2022,20349R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+A7GK,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,2/7/2020,14583B,B,3/3/2022,Capture or Transport Related Death,19879B,Post-mortem Obex and RLN,3/3/2022,Obex and RLN Not Detected,,,,
+A7GL,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Death,12/24/2019,,,12/24/2019,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,12/30/2019,"Obex Location, RLN Not Detected",,,,
+A7GM,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A7GN,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A7GP,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/7/2022,4992R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+A7GQ,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+A7GR,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,12/7/2020,16250D,D,,,,,,,,,,
+A7GT,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A7GV,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+A7GW,White-Tailed Deer,F,6/20/2018,Birth,6/20/2018,,Transferred,1/28/2019,1682B,B,9/11/2023,Culled for CWD Testing,2794B,Post-mortem Obex and RLN,9/11/2023,Obex and RLN Not Detected,,,,
+A7GX,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,4/28/2021,16524B,B,,,,,,,,,,
+A7GY,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+A7H0,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,4992R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+A7H2,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,20487R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+A7H3,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+A7H4,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,4/2/2022,2577B,B,12/21/2023,Accidental Death or Injury,2577B,Post-mortem Obex and RLN,12/21/2023,Obex and RLN Not Detected,Ante-mortem Rectal,10/17/2023,2577B,Not detected
+ANG3,White-Tailed Deer,F,6/14/2017,Transferred,3/17/2022,16086B,Death,9/14/2023,,,9/14/2023,Pneumonia,10953B,Post-mortem Obex and RLN,9/14/2023,Obex and RLN Not Detected,,,,
+AQ04,White-Tailed Deer,F,6/7/2017,Transferred,11/7/2019,13662B,Transferred,3/24/2020,13662B,B,6/29/2023,Culled for CWD Testing,1427B,Post-mortem Obex and RLN,6/29/2023,Obex and RLN Not Detected,Ante-mortem Rectal,6/29/2023,1427B,Not detected
+AR52,White-Tailed Deer,F,5/28/2019,Transferred,2/11/2020,3496B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+B81A,White-Tailed Deer,F,6/23/2019,Transferred,2/7/2020,14583B,Death,12/4/2020,,,12/4/2020,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,12/7/2020,Obex and RLN Not Detected,,,,
+BJAA,White-Tailed Deer,F,6/1/2019,Transferred,3/6/2020,1689B,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+BL6F,White-Tailed Deer,F,6/7/2008,Transferred,4/10/2015,1427B,Death,1/12/2018,,,1/12/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/12/2018,Obex and RLN Not Detected,Ante-mortem Rectal,7/21/2017,10953B,Not detected
+BLG5,White-Tailed Deer,F,6/22/2007,Transferred,4/10/2015,1427B,Transferred,2/19/2020,15660R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+C71C,White-Tailed Deer,F,6/20/2011,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+C71F,White-Tailed Deer,F,6/20/2011,Transferred,3/18/2015,9134B,Death,9/9/2015,,,9/9/2015,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,9/9/2015,Obex and RLN Not Detected,,,,
+C71L,White-Tailed Deer,F,6/20/2011,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+CFA9,White-Tailed Deer,F,6/19/2018,Transferred,3/27/2020,170B,Death,4/6/2021,,,4/6/2021,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,4/6/2021,Obex and RLN Not Detected,,,,
+CKWA,White-Tailed Deer,F,6/13/2018,Transferred,10/8/2019,12014B,Death,11/22/2019,,,11/22/2019,EHD - Blue Tongue Disease,10953B,Post-mortem Obex and RLN,11/30/2019,Obex and RLN Not Detected,,,,
+FAA7,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/8/2021,1020B,B,11/7/2023,Killed by Hunter,13476R,Post-mortem Obex and RLN,11/7/2023,Obex and RLN Not Detected,Ante-mortem Rectal,11/1/2022,1020B,Not detected
+FAA9,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,5/15/2023,20487R,R,,,,,,,Ante-mortem Rectal,2/3/2023,10953B,Not detected
+FAAA,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,11/2/2020,14583B,B,3/13/2021,Accidental Death or Injury,19879B,Post-mortem Obex and RLN,3/13/2021,Obex and RLN Not Detected,,,,
+FAAB,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+FAAG,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+FAAH,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+FAAK,White-Tailed Deer,F,6/16/2019,Transferred,8/19/2021,14583B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FAAK,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,2/7/2020,14583B,B,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FAAL,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,2/17/2024,12089R,R,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+FAAM,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,5/7/2021,20072R,R,,,,,,,,,,
+FAAN,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+FAAQ,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FAAT,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+FAAV,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FAAW,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,4/17/2021,5070B,B,,,,,,,Ante-mortem Rectal,10/8/2022,5070B,Not detected
+FAAX,White-Tailed Deer,F,6/11/2019,Birth,6/11/2019,,Transferred,3/31/2020,1689B,B,,,,,,,Ante-mortem Rectal,1/16/2023,18661B,Not detected
+FAAY,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,11/7/2020,19242D,D,,,,,,,,,,
+FAB0,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/20/2022,15020R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+FAB1,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Death,1/24/2023,,,1/24/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/24/2023,Obex and RLN Not Detected,,,,
+FAB2,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,20487R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+FAB3,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,3/14/2020,15020R,R,,,,,,,,,,
+FAB4,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Death,9/19/2023,,,9/19/2023,EHD - Blue Tongue Disease,10953B,Post-mortem Obex and RLN,9/19/2023,Obex and RLN Not Detected,,,,
+FAB5,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Death,8/16/2019,,,8/16/2019,Pneumonia,10953B,Post-mortem Obex and RLN,8/16/2019,Obex and RLN Not Detected,,,,
+FAB6,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/30/2022,17903R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FAB7,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,4/28/2021,16524B,B,,,,,,,Ante-mortem Rectal,1/31/2022,16524B,Not detected
+FAB8,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+FAB9,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FABA,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,4/7/2022,4992R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FABB,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,11/7/2020,19242D,D,,,,,,,,,,
+FABC,White-Tailed Deer,F,6/16/2019,Birth,6/16/2019,,Transferred,11/7/2020,19242D,D,,,,,,,,,,
+FABF,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+FABG,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+FABH,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/3/2022,20349R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+FABJ,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+FABK,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,3/26/2022,15020R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FABL,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FABM,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+FABN,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+FABP,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+FABQ,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,3/25/2022,,,3/25/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/25/2022,Obex and RLN Not Detected,,,,
+FABR,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,2/25/2021,,,2/25/2021,Pneumonia,10953B,Post-mortem Obex and RLN,2/25/2021,Obex and RLN Not Detected,,,,
+FABT,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,11/7/2020,19242D,D,,,,,,,,,,
+FABV,White-Tailed Deer,F,6/12/2018,Birth,6/12/2018,,Transferred,3/14/2019,1689B,B,,,,,,,Ante-mortem Rectal,8/19/2023,18661B,Not detected
+FABW,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/19/2022,10651B,B,,,,,,,Ante-mortem Rectal,3/27/2024,10651B,Not detected
+FABX,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/3/2022,20349R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+FABY,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,3/25/2022,,,3/25/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/25/2022,Obex and RLN Not Detected,,,,
+FAC0,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+FAC1,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+FAC2,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,2/27/2021,,,2/27/2021,Pneumonia,10953B,Post-mortem Obex and RLN,2/27/2021,Obex and RLN Not Detected,,,,
+FAC3,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,4/28/2021,16524B,B,1/27/2024,Killed by Hunter,2280R,,,,Ante-mortem Rectal,1/31/2022,16524B,Not detected
+FAC4,White-Tailed Deer,F,6/15/2018,Birth,6/15/2018,,Transferred,4/2/2019,3496B,B,,,,,,,Ante-mortem Rectal,11/26/2022,3496B,Not detected
+FAC6,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,3/30/2020,12014B,B,,,,,,,Ante-mortem Rectal,10/5/2023,12014B,Not detected
+FAC7,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,4/8/2022,20072R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FAC8,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,3/20/2021,1682B,B,9/11/2023,Culled for CWD Testing,1682B,Post-mortem Obex and RLN,9/11/2023,Obex and RLN Not Detected,Ante-mortem Rectal,7/7/2022,1682B,Not detected
+FAC9,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+FACA,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,20487R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+FACB,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Death,10/9/2023,,,10/9/2023,Poison/Digestion/Rumen Problems,10953B,Post-mortem Obex and RLN,10/9/2023,Obex and RLN Not Detected,,,,
+FACF,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+FT3M,White-Tailed Deer,F,5/1/2010,Transferred,4/10/2015,1427B,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+FVMJ,White-Tailed Deer,F,6/10/2010,Transferred,10/27/2020,12014B,Death,7/24/2024,,,7/24/2024,Giving Birth,10953B,Post-mortem Obex and RLN,7/24/2024,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+G9C6,White-Tailed Deer,F,6/8/2011,Transferred,4/10/2015,1427B,Death,6/16/2022,,,6/16/2022,Giving Birth,10953B,Post-mortem Obex and RLN,6/16/2022,Obex and RLN Not Detected,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+G9F2,White-Tailed Deer,F,6/8/2011,Transferred,3/18/2015,9134B,Transferred,4/13/2019,4810R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+G9F6,White-Tailed Deer,F,6/8/2011,Transferred,4/10/2015,1427B,Transferred,3/26/2018,5070B,B,7/19/2018,Pneumonia,5070B,Post-mortem Obex and RLN,7/19/2018,Obex and RLN Not Detected,Ante-mortem Rectal,7/6/2017,10953B,Not detected
+G9G0,White-Tailed Deer,F,6/10/2010,Transferred,4/10/2015,1427B,Transferred,4/13/2019,4810R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+G9G8,White-Tailed Deer,M,6/12/2010,Transferred,4/10/2015,1427B,Transferred,8/29/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+GAHH,White-Tailed Deer,F,5/30/2018,Transferred,11/14/2019,2271B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+GNAK,White-Tailed Deer,F,6/26/2018,Transferred,10/19/2019,2577B,Death,12/30/2019,,,12/30/2019,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,12/30/2019,Obex and RLN Not Detected,,,,
+GNAT,White-Tailed Deer,F,6/26/2018,Transferred,10/19/2019,2577B,Transferred,4/29/2021,2577B,B,3/19/2022,Unknown Cause,2577B,Post-mortem Obex and RLN,3/19/2022,Obex and RLN Not Detected,,,,
+HAMY,White-Tailed Deer,F,5/25/2018,Transferred,11/7/2019,13662B,Transferred,3/24/2020,13662B,B,4/15/2023,Pneumonia,1427B,Post-mortem Obex and RLN,4/15/2023,Not detected,,,,
+HAN9,White-Tailed Deer,F,5/25/2018,Transferred,11/7/2019,13662B,Transferred,3/24/2020,13662B,B,9/10/2022,Poison/Digestion/Rumen Problems,1427B,Post-mortem Obex and RLN,9/10/2022,Obex and RLN Not Detected,Ante-mortem Rectal,5/19/2020,13662B,Not detected
+HANY,White-Tailed Deer,F,5/26/2018,Transferred,11/7/2019,13662B,Transferred,3/24/2020,13662B,B,6/29/2023,Culled for CWD Testing,1427B,Post-mortem Obex and RLN,6/29/2023,Obex and RLN Not Detected,Ante-mortem Rectal,6/29/2023,1427B,Not detected
+HJ0G,White-Tailed Deer,F,6/16/2010,Transferred,3/18/2015,9134B,Transferred,3/18/2018,15020R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+HJ0T,White-Tailed Deer,F,6/20/2010,Transferred,4/10/2015,1427B,Transferred,3/18/2018,4992R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+HJ18,White-Tailed Deer,F,7/1/2010,Transferred,3/18/2015,9134B,Death,11/8/2016,,,11/8/2016,Natural Causes or Weather Related,10953B,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+HJ2P,White-Tailed Deer,F,6/13/2011,Transferred,4/10/2015,1427B,Death,3/25/2022,,,3/25/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/25/2022,Obex and RLN Not Detected,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+HJ30,White-Tailed Deer,F,6/15/2011,Transferred,4/10/2015,1427B,Death,7/26/2016,,,7/26/2016,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,7/26/2016,"Obex Location, RLN Not Detected",,,,
+JGTC,White-Tailed Deer,F,5/1/2011,Transferred,11/1/2018,1498B,Death,11/7/2018,,,11/7/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,2/28/2019,"Obex Location, RLN Not Detected",,,,
+JJ8Q,White-Tailed Deer,F,5/30/2014,Transferred,9/29/2020,13643B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+KGKB,White-Tailed Deer,F,6/1/2011,Transferred,4/10/2015,1427B,Death,1/1/2023,,,1/1/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/6/2023,Obex and RLN Not Detected,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+KGLP,White-Tailed Deer,F,7/31/2019,Transferred,3/21/2020,716B,Transferred,3/31/2022,20026B,B,,,,,,,,,,
+KP7H,White-Tailed Deer,F,5/1/2011,Transferred,3/1/2018,1427B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+L4CG,White-Tailed Deer,F,7/6/2011,Transferred,3/18/2015,9134B,Transferred,3/14/2020,15020R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+L4G1,White-Tailed Deer,F,5/24/2012,Transferred,4/10/2015,1427B,Transferred,3/14/2020,15020R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+L4G9,White-Tailed Deer,F,6/10/2012,Transferred,4/10/2015,1427B,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+L4GT,White-Tailed Deer,F,6/12/2012,Transferred,4/10/2015,1427B,Transferred,4/17/2021,5070B,B,10/15/2022,Other Disease or Infection,5070B,Post-mortem Obex and RLN,10/17/2022,Obex and RLN Not Detected,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+L68P,White-Tailed Deer,M,6/1/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+L6B3,White-Tailed Deer,M,5/25/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+LA7L,White-Tailed Deer,F,7/12/2018,Transferred,3/30/2020,13788B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+LA9J,White-Tailed Deer,F,7/25/2018,Transferred,3/30/2020,13788B,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+LXM9,White-Tailed Deer,F,6/6/2011,Transferred,3/18/2015,9134B,Death,10/6/2015,,,10/6/2015,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,10/6/2015,Obex and RLN Not Detected,,,,
+LXMF,White-Tailed Deer,F,6/6/2011,Transferred,3/18/2015,9134B,Death,7/2/2015,,,7/2/2015,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,7/2/2015,Obex and RLN Not Detected,,,,
+M3RR,White-Tailed Deer,F,5/20/2013,Transferred,10/12/2017,170B,Transferred,4/9/2020,3496B,B,4/7/2021,Culled for CWD Testing,3496B,Post-mortem Obex and RLN,4/7/2021,Obex and RLN Not Detected,Ante-mortem Rectal,10/5/2016,170B,Not detected
+MP2T,White-Tailed Deer,F,5/5/2012,Transferred,4/3/2019,13788B,Transferred,2/19/2020,15660R,R,,,,,,,,,,
+MP3K,White-Tailed Deer,F,5/5/2012,Transferred,3/6/2020,1689B,Death,11/27/2022,,,11/27/2022,Pneumonia,10953B,Post-mortem Obex and RLN,11/30/2022,Obex and RLN Not Detected,,,,
+MYN1,White-Tailed Deer,M,6/7/2012,Transferred,3/18/2015,9134B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYN1,White-Tailed Deer,M,6/7/2012,Transferred,11/8/2014,1334B,Transferred,11/14/2014,9134B,B,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYN7,White-Tailed Deer,M,6/8/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYNY,White-Tailed Deer,M,6/11/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYP0,White-Tailed Deer,M,6/13/2012,Transferred,3/18/2015,9134B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYP0,White-Tailed Deer,M,6/13/2012,Transferred,11/8/2014,1334B,Transferred,11/11/2014,9134B,B,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYPN,White-Tailed Deer,M,6/12/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYQ2,White-Tailed Deer,M,6/20/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYQ9,White-Tailed Deer,M,6/20/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYQG,White-Tailed Deer,M,6/23/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYQT,White-Tailed Deer,M,6/25/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYQV,White-Tailed Deer,M,6/25/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYRG,White-Tailed Deer,M,6/29/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYRV,White-Tailed Deer,M,7/7/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYT1,White-Tailed Deer,M,7/16/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYT5,White-Tailed Deer,M,7/19/2012,Transferred,11/8/2014,1334B,Death,11/9/2014,,,11/9/2014,Capture or Transport Related Death,10953B,Post-mortem Obex and RLN,11/9/2014,Obex and RLN Not Detected,,,,
+MYTC,White-Tailed Deer,M,7/21/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYTH,White-Tailed Deer,M,7/25/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYTW,White-Tailed Deer,M,8/9/2012,Transferred,11/8/2014,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+MYX2,White-Tailed Deer,F,6/11/2013,Transferred,3/25/2015,1334B,Death,8/7/2015,,,8/7/2015,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,8/7/2015,Obex and RLN Not Detected,,,,
+N5P8,White-Tailed Deer,F,7/9/2012,Transferred,4/10/2015,1427B,Transferred,3/18/2018,15020R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+N5Q2,White-Tailed Deer,F,8/14/2012,Transferred,4/10/2015,1427B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+N5Q3,White-Tailed Deer,M,8/15/2012,Transferred,9/10/2015,1427B,Death,2/6/2020,,,2/6/2020,Pneumonia,10953B,Post-mortem Obex and RLN,2/6/2020,"Obex Location, RLN Not Detected",Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P376,White-Tailed Deer,F,7/1/2013,Transferred,3/18/2015,9134B,Death,7/26/2016,,,7/26/2016,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,7/26/2016,Not detected,,,,
+P377,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/19/2022,10651B,B,,,,,,,Ante-mortem Rectal,3/27/2024,10651B,Not detected
+P378,White-Tailed Deer,M,7/1/2013,Transferred,3/18/2015,9134B,Transferred,9/6/2016,4992R,R,,,,,,,,,,
+P37B,White-Tailed Deer,M,7/1/2013,Transferred,3/18/2015,9134B,Transferred,9/6/2016,4992R,R,,,,,,,,,,
+P37G,White-Tailed Deer,F,7/1/2013,Transferred,3/18/2015,9134B,Transferred,3/25/2018,4810R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+P37H,White-Tailed Deer,F,7/1/2013,Transferred,3/18/2015,9134B,Transferred,3/25/2018,4810R,R,,,,,,,Ante-mortem Rectal,7/6/2017,10953B,Not detected
+P37K,White-Tailed Deer,M,7/1/2013,Transferred,3/18/2015,9134B,Transferred,9/6/2016,4992R,R,,,,,,,,,,
+P37M,White-Tailed Deer,F,7/1/2013,Transferred,3/18/2015,9134B,Transferred,3/25/2018,4810R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+P37N,White-Tailed Deer,F,7/1/2013,Transferred,3/18/2015,9134B,Transferred,3/25/2018,4810R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+P37R,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/25/2018,4810R,R,,,,,,,,,,
+P37T,White-Tailed Deer,F,7/1/2013,Transferred,3/18/2015,9134B,Transferred,3/18/2018,15020R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+P37V,White-Tailed Deer,M,7/1/2013,Transferred,3/18/2015,9134B,Transferred,9/6/2016,4992R,R,,,,,,,,,,
+P37W,White-Tailed Deer,M,7/1/2013,Transferred,3/18/2015,9134B,Transferred,9/6/2016,4992R,R,,,,,,,,,,
+P37Y,White-Tailed Deer,F,7/1/2013,Transferred,3/18/2015,9134B,Transferred,3/25/2018,4810R,R,,,,,,,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+P380,White-Tailed Deer,M,7/1/2013,Transferred,3/18/2015,9134B,Transferred,9/6/2016,4992R,R,,,,,,,,,,
+P381,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/9/2019,15660R,R,,,,,,,,,,
+P382,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,,,,
+P383,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P384,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P385,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P386,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/11/2018,4992R,R,,,,,,,,,,
+P387,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P388,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P389,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P38B,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P38C,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+P38F,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Death,1/11/2018,,,1/11/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/11/2018,"Obex Location, RLN Not Detected",Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P38G,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P38H,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,,,,
+P38J,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/12/2018,11499R,R,,,,,,,,,,
+P38K,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P38L,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Death,12/5/2018,,,12/5/2018,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,2/28/2019,Obex and RLN Not Detected,,,,
+P38M,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Death,1/12/2018,,,1/12/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/12/2018,"Obex Location, RLN Not Detected",Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P38N,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P38P,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,4/7/2022,4992R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+P38Q,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P38R,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/14/2020,15020R,R,,,,,,,Ante-mortem Rectal,3/28/2017,10953B,Not detected
+P38T,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/12/2018,11499R,R,,,,,,,,,,
+P38V,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P38W,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P38X,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P38Y,White-Tailed Deer,F,6/9/2014,Transferred,3/18/2015,9134B,Transferred,5/20/2016,12693R,R,,,,,,,,,,
+P390,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/11/2018,4992R,R,,,,,,,,,,
+P391,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,,,,
+P392,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/25/2018,4810R,R,,,,,,,,,,
+P393,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/12/2018,11499R,R,,,,,,,,,,
+P394,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P395,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/11/2018,4992R,R,,,,,,,,,,
+P396,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P397,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,,,,
+P398,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P399,White-Tailed Deer,M,6/9/2014,Transferred,3/18/2015,9134B,Transferred,9/15/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+P39B,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+P39C,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,3/18/2018,4992R,R,,,,,,,,,,
+P39F,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/25/2018,4810R,R,,,,,,,,,,
+P39G,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Death,7/1/2017,,,7/1/2017,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,7/1/2017,Not detected,,,,
+P39H,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/25/2018,4810R,R,,,,,,,,,,
+P39J,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+P39K,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/12/2018,11499R,R,,,,,,,,,,
+P3Q0,White-Tailed Deer,F,5/26/2015,Transferred,4/23/2021,1730B,Death,11/29/2023,,,11/29/2023,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,11/29/2023,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+P4TQ,White-Tailed Deer,F,6/5/2013,Transferred,3/1/2018,1427B,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+PL42,White-Tailed Deer,M,7/15/2013,Transferred,9/10/2015,1427B,Death,2/28/2019,,,2/28/2019,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,2/28/2019,"Obex Location, RLN Not Detected",Ante-mortem Rectal,6/9/2017,10953B,Not detected
+PL43,White-Tailed Deer,F,7/15/2013,Transferred,10/10/2018,1427B,Death,6/27/2021,,,6/27/2021,Pneumonia,10953B,Post-mortem Obex and RLN,6/28/2021,Obex and RLN Not Detected,,,,
+PL68,White-Tailed Deer,M,6/11/2014,Transferred,4/10/2015,1427B,Transferred,8/29/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+PL69,White-Tailed Deer,M,6/11/2014,Transferred,4/10/2015,1427B,Transferred,8/29/2017,4992R,R,,,,,,,,,,
+PL6P,White-Tailed Deer,F,6/12/2014,Transferred,3/24/2020,1427B,Death,11/27/2022,,,11/27/2022,Pneumonia,10953B,Post-mortem Obex and RLN,11/30/2022,"Obex Location, RLN Not Detected",,,,
+PL6T,White-Tailed Deer,F,6/12/2014,Transferred,4/10/2015,1427B,Transferred,3/25/2019,2577B,B,,,,,,,Ante-mortem Rectal,11/3/2022,2577B,Not detected
+PL6V,White-Tailed Deer,F,6/12/2014,Transferred,4/10/2015,1427B,Transferred,4/17/2021,5070B,B,,,,,,,Ante-mortem Rectal,10/8/2022,5070B,Not detected
+PL70,White-Tailed Deer,F,6/13/2014,Transferred,4/10/2015,1427B,Transferred,12/3/2015,1427B,B,3/25/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/25/2022,Obex and RLN Not Detected,,,,
+PL70,White-Tailed Deer,F,6/13/2014,Transferred,11/7/2019,1427B,Death,3/25/2022,,,3/25/2022,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,3/25/2022,Obex and RLN Not Detected,,,,
+PL71,White-Tailed Deer,F,6/13/2014,Transferred,4/10/2015,1427B,Transferred,4/3/2019,12014B,B,,,,,,,Ante-mortem Rectal,10/5/2023,12014B,Not detected
+PL75,White-Tailed Deer,F,6/14/2014,Transferred,4/10/2015,1427B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+PLKP,White-Tailed Deer,F,6/1/2014,Transferred,4/10/2015,1427B,Death,11/23/2017,,,11/23/2017,Pneumonia,10953B,Post-mortem Obex and RLN,11/23/2017,Inconclusive,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+PN3J,White-Tailed Deer,F,6/15/2013,Transferred,4/10/2015,1427B,Death,7/15/2015,,,7/15/2015,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,7/15/2015,Obex and RLN Not Detected,,,,
+PN3T,White-Tailed Deer,F,6/15/2013,Transferred,4/10/2015,1427B,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+QYQ8,White-Tailed Deer,F,5/22/2015,Transferred,10/12/2015,2958B,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+R0CC,White-Tailed Deer,F,6/23/2014,Transferred,4/30/2015,556B,Transferred,3/14/2020,15020R,R,,,,,,,Ante-mortem Lymph Node,4/20/2016,10953B,Not detected
+R0CF,White-Tailed Deer,F,6/23/2014,Transferred,4/30/2015,556B,Death,11/23/2017,,,11/23/2017,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,11/23/2017,"Obex Location, RLN Not Detected",Ante-mortem Lymph Node,4/20/2016,10953B,Not detected
+R0H7,White-Tailed Deer,M,6/28/2014,Transferred,4/30/2015,556B,Transferred,8/29/2017,4992R,R,,,,,,,Ante-mortem Lymph Node,4/20/2016,10953B,Not detected
+R0HB,White-Tailed Deer,M,6/29/2014,Transferred,4/30/2015,556B,Transferred,8/29/2017,4992R,R,,,,,,,Ante-mortem Lymph Node,4/20/2016,10953B,Not detected
+R0HJ,White-Tailed Deer,M,7/2/2014,Transferred,4/30/2015,556B,Transferred,9/11/2018,4992R,R,,,,,,,Ante-mortem Lymph Node,4/20/2016,10953B,Not detected
+R0JH,White-Tailed Deer,M,6/26/2014,Transferred,4/30/2015,556B,Transferred,8/29/2017,4992R,R,,,,,,,Ante-mortem Lymph Node,4/20/2016,10953B,Not detected
+R9QM,White-Tailed Deer,F,6/26/2016,Transferred,10/23/2018,5177B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+RH69,White-Tailed Deer,F,6/15/2018,Transferred,12/4/2018,5070B,Death,12/8/2018,,,12/8/2018,Accidental Death or Injury,10953B,,,,,,,
+RHQT,White-Tailed Deer,F,6/1/2015,Transferred,3/8/2021,1020B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+RLFR,White-Tailed Deer,F,6/1/2014,Transferred,10/15/2020,1689B,Transferred,3/30/2022,17903R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+RM7A,White-Tailed Deer,F,7/13/2019,Transferred,3/18/2020,13130B,Transferred,3/31/2022,20026B,B,,,,,,,,,,
+RV37,White-Tailed Deer,F,6/14/2014,Transferred,4/10/2015,1427B,Transferred,3/26/2018,2577B,B,,,,,,,Ante-mortem Rectal,11/1/2023,2577B,Not detected
+RV3J,White-Tailed Deer,F,6/14/2014,Transferred,10/10/2018,1427B,Transferred,4/17/2021,5070B,B,4/18/2021,Capture or Transport Related Death,5070B,Post-mortem Obex and RLN,4/20/2021,Obex and RLN Not Detected,,,,
+RV3X,White-Tailed Deer,F,6/14/2014,Transferred,4/10/2015,1427B,Transferred,4/2/2019,3496B,B,5/3/2022,Natural Causes or Weather Related,3496B,Post-mortem Obex and RLN,5/3/2022,Obex and RLN Not Detected,Ante-mortem Rectal,4/28/2021,3496B,Not detected
+RV4M,White-Tailed Deer,F,6/17/2014,Transferred,4/10/2015,1427B,Death,5/19/2015,,,5/19/2015,Pneumonia,10953B,,,,,,,
+RV4N,White-Tailed Deer,F,6/17/2014,Transferred,4/10/2015,1427B,Death,9/9/2015,,,9/9/2015,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,9/9/2015,Obex and RLN Not Detected,,,,
+RV4P,White-Tailed Deer,M,6/17/2014,Transferred,4/10/2015,1427B,Transferred,8/29/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+RV4R,White-Tailed Deer,F,6/17/2014,Transferred,4/10/2015,1427B,Transferred,3/26/2018,5070B,B,11/3/2020,Other Non-disease Death,5070B,Post-mortem Obex and RLN,11/4/2020,Obex and RLN Not Detected,Ante-mortem Rectal,7/21/2017,10953B,Not detected
+RV4T,White-Tailed Deer,F,6/17/2014,Transferred,4/10/2015,1427B,Transferred,3/18/2018,4992R,R,,,,,,,,,,
+RV4X,White-Tailed Deer,F,6/18/2014,Transferred,4/10/2015,1427B,Transferred,3/25/2019,2577B,B,,,,,,,Ante-mortem Rectal,11/1/2023,2577B,Not detected
+RV5C,White-Tailed Deer,F,6/18/2014,Transferred,4/10/2015,1427B,Transferred,3/26/2018,5070B,B,10/16/2022,Accidental Death or Injury,5070B,Post-mortem Obex and RLN,10/17/2022,Obex and RLN Not Detected,Ante-mortem Rectal,10/8/2022,5070B,Not detected
+RV5L,White-Tailed Deer,F,6/19/2014,Transferred,4/10/2015,1427B,Transferred,2/7/2020,14583B,B,1/22/2022,Natural Causes or Weather Related,20828B,Post-mortem Obex and RLN,1/24/2022,Obex and RLN Not Detected,Ante-mortem Rectal,7/26/2016,10953B,Not detected
+RV5V,White-Tailed Deer,M,6/20/2014,Transferred,12/7/2016,1427B,Death,11/3/2019,,,11/3/2019,Natural Causes or Weather Related,10953B,Post-mortem Obex and RLN,11/30/2019,"Obex Location, RLN Not Detected",Ante-mortem Rectal,6/9/2017,10953B,Not detected
+RV6H,White-Tailed Deer,F,6/24/2014,Transferred,4/27/2021,13788B,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+RV74,White-Tailed Deer,M,7/3/2014,Transferred,4/10/2015,1427B,Transferred,8/29/2017,4992R,R,,,,,,,Ante-mortem Rectal,6/9/2017,10953B,Not detected
+RV75,White-Tailed Deer,F,7/3/2014,Transferred,4/10/2015,1427B,Transferred,3/26/2018,5070B,B,,,,,,,Ante-mortem Rectal,10/8/2022,5070B,Not detected
+RV77,White-Tailed Deer,F,7/4/2014,Transferred,4/10/2015,1427B,Transferred,3/18/2018,4992R,R,,,,,,,,,,
+RY2G,White-Tailed Deer,F,5/21/2014,Transferred,5/10/2019,1427B,Transferred,4/14/2022,17833B,B,7/19/2023,Culled for CWD Testing,17833B,Post-mortem Obex and RLN,7/20/2023,Obex and RLN Not Detected,,,,
+RY6K,White-Tailed Deer,F,7/8/2016,Transferred,3/16/2017,2027B,Death,11/23/2017,,,11/23/2017,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,11/23/2017,"Obex Location, RLN Not Detected",,,,
+RY96,White-Tailed Deer,F,7/28/2014,Transferred,3/2/2018,2557B,Transferred,3/25/2020,1807B,B,,,,,,,Ante-mortem Rectal,8/9/2016,2557B,Not detected
+TA0J,White-Tailed Deer,F,6/14/2019,Transferred,2/11/2020,3496B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,,,,
+TH67,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,2/23/2020,9248B,B,10/2/2020,Unknown Cause,9248B,Post-mortem Obex and RLN,10/2/2020,Obex and RLN Not Detected,Ante-mortem Rectal,3/28/2017,10953B,Not detected
+TH68,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,4/13/2019,4810R,R,,,,,,,Ante-mortem Rectal,3/28/2017,10953B,Not detected
+TH69,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,4/9/2020,17923B,B,,,,,,,Ante-mortem Rectal,3/28/2017,10953B,Not detected
+TH6B,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,4/13/2019,4810R,R,,,,,,,Ante-mortem Rectal,3/28/2017,10953B,Not detected
+TH6C,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/10/2018,4810R,R,,,,,,,,,,
+TH6F,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,10/29/2021,17781B,B,,,,,,,,,,
+TH6G,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/10/2018,4810R,R,,,,,,,,,,
+TH6H,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+TH6J,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,5/15/2019,3963R,R,,,,,,,,,,
+TH6K,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+TH6L,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/30/2018,1689B,B,7/21/2023,Culled for CWD Testing,17777B,Post-mortem Obex and RLN,7/21/2023,Obex and RLN Not Detected,Ante-mortem Rectal,3/28/2017,10953B,Not detected
+TH6M,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/11/2018,4992R,R,,,,,,,,,,
+TH6N,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/11/2018,4992R,R,,,,,,,,,,
+TH6P,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/11/2018,4992R,R,,,,,,,,,,
+TH6Q,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/12/2018,11499R,R,,,,,,,,,,
+TH6R,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/11/2018,4992R,R,,,,,,,,,,
+TH6T,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/9/2020,17923B,B,6/8/2021,Accidental Death or Injury,17923B,Post-mortem Obex and RLN,6/8/2021,Obex and RLN Not Detected,,,,
+TH6V,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/28/2022,20487R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+TH6W,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/23/2019,14583B,B,,,,,,,Ante-mortem Rectal,3/28/2017,10953B,Not detected
+TH6X,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/14/2020,15020R,R,,,,,,,Ante-mortem Rectal,3/28/2017,10953B,Not detected
+TH6Y,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/30/2022,17903R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+TH70,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+TH71,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Transferred,9/12/2018,11499R,R,,,,,,,,,,
+TH72,White-Tailed Deer,M,6/30/2015,Birth,6/30/2015,,Death,1/12/2018,,,1/12/2018,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,1/12/2018,"Obex Location, RLN Not Detected",,,,
+TH73,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+VL6F,White-Tailed Deer,F,6/10/2015,Transferred,2/28/2018,11023B,Transferred,4/7/2022,4992R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
+VPJF,White-Tailed Deer,F,6/20/2016,Transferred,4/27/2021,13788B,Death,7/22/2024,,,7/22/2024,Giving Birth,10953B,Post-mortem Obex and RLN,7/22/2024,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+VPNG,White-Tailed Deer,F,6/7/2015,Transferred,3/1/2018,13788B,Transferred,4/29/2021,2577B,B,,,,,,,Ante-mortem Rectal,11/3/2022,2577B,Not detected
+VT6K,White-Tailed Deer,F,6/15/2015,Transferred,3/1/2018,1427B,Transferred,4/9/2020,17923B,B,5/20/2024,Pneumonia,17923B,Post-mortem Obex and RLN,5/21/2024,Obex and RLN Not Detected,,,,
+VT6R,White-Tailed Deer,F,6/16/2015,Transferred,4/5/2017,1427B,Transferred,4/9/2020,17923B,B,3/25/2022,Accidental Death or Injury,17923B,Post-mortem Obex and RLN,3/25/2022,Obex and RLN Not Detected,,,,
+VT75,White-Tailed Deer,M,6/17/2015,Transferred,9/18/2018,1427B,Transferred,9/18/2020,15660R,R,,,,,,,,,,
+VT78,White-Tailed Deer,F,6/18/2015,Transferred,4/5/2017,1427B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+VT81,White-Tailed Deer,F,6/23/2015,Transferred,3/1/2018,1427B,Death,9/18/2023,,,9/18/2023,Pneumonia,10953B,Post-mortem Obex and RLN,9/18/2023,Obex and RLN Not Detected,,,,
+VW9Y,White-Tailed Deer,F,5/24/2015,Transferred,10/10/2018,1427B,Transferred,4/8/2022,18661B,B,6/29/2023,Culled for CWD Testing,18661B,Post-mortem Obex and RLN,6/29/2023,Obex and RLN Not Detected,,,,
+W7KX,White-Tailed Deer,F,6/16/2016,Transferred,12/19/2019,1689B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,Ante-mortem Rectal,7/24/2023,10953B,Not detected
+W9WY,White-Tailed Deer,F,6/24/2015,Transferred,5/8/2018,2577B,Transferred,5/15/2019,3963R,R,,,,,,,,,,
+W9Y8,White-Tailed Deer,F,7/28/2015,Transferred,5/8/2018,2577B,Transferred,5/15/2019,3963R,R,,,,,,,,,,
+W9YJ,White-Tailed Deer,F,7/31/2015,Transferred,5/8/2018,2577B,Transferred,3/14/2020,15020R,R,,,,,,,,,,
+WA6G,White-Tailed Deer,F,6/19/2019,Transferred,10/23/2021,10002B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+WCV1,White-Tailed Deer,F,5/30/2016,Transferred,10/8/2019,3363B,Death,11/2/2019,,,11/2/2019,EHD - Blue Tongue Disease,10953B,Post-mortem Obex and RLN,11/30/2019,Obex and RLN Not Detected,,,,
+WH67,White-Tailed Deer,F,6/9/2015,Transferred,12/16/2015,3888B,Transferred,4/9/2020,17923B,B,,,,,,,,,,
+WH69,White-Tailed Deer,M,6/9/2015,Transferred,12/16/2015,3888B,Death,10/20/2017,,,10/20/2017,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,10/20/2017,"Obex Location, RLN Not Detected",,,,
+WTQ0,White-Tailed Deer,F,7/1/2015,Transferred,4/6/2017,1187B,Transferred,4/10/2019,4759B,B,8/14/2021,EHD - Blue Tongue Disease,16541B,Post-mortem Obex and RLN,8/14/2021,Obex and RLN Not Detected,,,,
+X43M,White-Tailed Deer,F,5/28/2017,Transferred,3/1/2018,12014B,Death,2/7/2020,,,2/7/2020,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,2/7/2020,Obex and RLN Not Detected,,,,
+X5B2,White-Tailed Deer,F,6/30/2015,Birth,6/30/2015,,Transferred,3/25/2018,4810R,R,,,,,,,,,,
+X5B3,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,4992R,R,,,,,,,,,,
+X5B4,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/7/2019,4992R,R,,,,,,,,,,
+X5B5,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/13/2019,4810R,R,,,,,,,,,,
+X5B6,White-Tailed Deer,M,6/14/2018,Birth,6/14/2018,,Transferred,8/31/2021,20487R,R,,,,,,,Ante-mortem Rectal,7/1/2021,10953B,Not detected
+X5B7,White-Tailed Deer,M,6/6/2016,Birth,6/6/2016,,Transferred,9/6/2019,4992R,R,,,,,,,,,,
+X5B8,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+X5B9,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+X5BB,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+X5BC,White-Tailed Deer,F,6/6/2016,Birth,6/6/2016,,Transferred,3/18/2018,15020R,R,,,,,,,,,,
+X5BF,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,2/19/2020,15660R,R,,,,,,,,,,
+X5BG,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/9/2020,4992R,R,,,,,,,,,,
+X5BH,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/18/2020,18841R,R,,,,,,,,,,
+X5BJ,White-Tailed Deer,F,6/14/2018,Birth,6/14/2018,,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+X5BK,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,4992R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+X5BL,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,3/23/2021,15660R,R,,,,,,,,,,
+X5BM,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,4/8/2024,20487R,R,,,,,,,Ante-mortem Rectal,2/22/2024,10953B,Not detected
+X5BN,White-Tailed Deer,M,6/16/2019,Birth,6/16/2019,,Transferred,9/9/2022,4992R,R,,,,,,,Ante-mortem Rectal,3/2/2022,10953B,Not detected
+X5BP,White-Tailed Deer,F,7/10/2017,Birth,7/10/2017,,Transferred,4/13/2019,4810R,R,,,,,,,,,,
+X5BQ,White-Tailed Deer,M,7/10/2017,Birth,7/10/2017,,Transferred,9/9/2020,4992R,R,,,,,,,,,,
+XHRH,White-Tailed Deer,F,5/17/2016,Transferred,10/19/2019,2577B,,,,,,,,,,,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+XJMN,White-Tailed Deer,F,5/25/2017,Transferred,9/29/2020,13643B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,Ante-mortem Rectal,7/24/2023,10953B,Not detected
+XRH6,White-Tailed Deer,F,6/20/2016,Transferred,3/1/2018,2577B,Transferred,5/15/2019,3963R,R,,,,,,,,,,
+XRJH,White-Tailed Deer,F,7/1/2016,Transferred,4/8/2020,2577B,Transferred,11/7/2020,19242D,D,,,,,,,,,,
+XVB6,White-Tailed Deer,F,7/1/2016,Transferred,5/10/2019,1427B,Death,9/18/2019,,,9/18/2019,Pneumonia,10953B,Post-mortem Obex and RLN,9/22/2019,Obex and RLN Not Detected,,,,
+XWTR,White-Tailed Deer,F,5/30/2016,Transferred,10/10/2018,1427B,Transferred,3/24/2020,2577B,B,,,,,,,Ante-mortem Rectal,11/3/2022,2577B,Not detected
+XX0P,White-Tailed Deer,F,6/3/2016,Transferred,10/8/2019,13788B,Transferred,4/5/2022,12872B,B,8/7/2023,Pneumonia,12872B,Post-mortem Obex and RLN,8/8/2023,Not detected,,,,
+XXMY,White-Tailed Deer,F,8/2/2016,Transferred,10/15/2020,1689B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,Obex and RLN Not Detected,Ante-mortem Rectal,7/24/2023,10953B,Not detected
+Y7XW,White-Tailed Deer,F,6/3/2017,Transferred,4/4/2018,5301B,Transferred,3/25/2019,2577B,B,12/27/2019,Accidental Death or Injury,2577B,Post-mortem Obex and RLN,12/27/2019,Obex and RLN Not Detected,,,,
+YARA,White-Tailed Deer,F,6/3/2019,Transferred,3/12/2020,2420B,Death,11/24/2020,,,11/24/2020,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,12/1/2020,"Obex Location, RLN Not Detected",,,,
+YARY,White-Tailed Deer,F,6/6/2019,Transferred,3/12/2020,2420B,Death,7/24/2023,,,7/24/2023,Culled for CWD Testing,10953B,Post-mortem Obex and RLN,7/24/2023,"Obex Location, RLN Not Detected",,,,
+YBCB,White-Tailed Deer,F,6/17/2018,Transferred,12/4/2018,1682B,Transferred,4/29/2024,4859BO,BO,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+YYW4,White-Tailed Deer,F,6/6/2018,Transferred,11/4/2021,13647B,Death,11/28/2023,,,11/28/2023,Pneumonia,10953B,Post-mortem Obex and RLN,11/29/2023,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+YYX2,White-Tailed Deer,F,6/9/2017,Transferred,11/4/2021,13647B,Death,10/18/2024,,,10/18/2024,Accidental Death or Injury,10953B,Post-mortem Obex and RLN,10/18/2024,Obex and RLN Not Detected,Ante-mortem Rectal,9/27/2023,10953B,Not detected
+YYX3,White-Tailed Deer,F,6/10/2017,Transferred,11/9/2020,13647B,,,,,,,,,,,Ante-mortem Rectal,10/6/2023,10953B,Not detected
+YYYN,White-Tailed Deer,F,6/13/2018,Transferred,11/9/2020,13647B,Transferred,4/7/2022,4992R,R,,,,,,,Ante-mortem Rectal,12/1/2021,10953B,Not detected
